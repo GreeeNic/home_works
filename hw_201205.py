@@ -7,7 +7,7 @@ laptops = [
 
 
 def show_price(laptops_price):
-    print('Цена первую модель ноутбука-', laptops_price[0], laptops_price[1:2])
+    print('Цена первую модель ноутбука -', laptops_price[0], laptops_price[1:2])
 
 
 for price in laptops:
