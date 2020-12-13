@@ -12,3 +12,10 @@ def show_price(laptops_price):
 
 for price in laptops:
     show_price(price)
+
+
+def keyword_function(a=1, b=2):
+    return a + b
+
+
+print(keyword_function(b=4, a=5))
