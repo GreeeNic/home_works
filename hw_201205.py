@@ -19,3 +19,16 @@ def keyword_function(a=1, b=2):
 
 
 print(keyword_function(b=4, a=5))
+
+
+age = 13
+
+
+def get_older():
+    global age
+    age += 1
+
+
+print(age)
+get_older()
+print(age)
