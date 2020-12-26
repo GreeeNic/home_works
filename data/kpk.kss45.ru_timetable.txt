@@ -1,0 +1,1807 @@
+    
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ru-ru" lang="ru-ru" dir="ltr">
+
+  <head>
+ 
+    	<base href="https://kpk.kss45.ru/%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/%D1%80%D0%B0%D1%81%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BF%D0%B0%D1%80.html" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Педагогика, образование, поступление, куда поступить, педагог, учитель, ЕГЭ, КПК, Ювентис," />
+	<meta name="rights" content="ГБПОУ &quot;Курганский педагогический колледж&quot;" />
+	<meta name="description" content="ГБПОУ &quot;Курганский педагогический колледж&quot;
+Сайт образовательного учреждения" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>ГБПОУ Курганский педагогический колледж - Расписание</title>
+	<link href="/templates/apas/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link rel="stylesheet" href="/media/com_attachments/css/attachments_hide.css" type="text/css" />
+	<link rel="stylesheet" href="/media/com_attachments/css/attachments_list.css" type="text/css" />
+	<link rel="stylesheet" href="/plugins/system/imagesizer/lbscripts/lightbox2/lightbox.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="/media/modals/css/bootstrap.min.css" type="text/css" />
+	<link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.min.css?9d108330040bd2b7386ad9c4cf8105fc" type="text/css" />
+	<link rel="stylesheet" href="/modules/mod_holidays/assets/css/garland.css" type="text/css" />
+	<style type="text/css">
+#scrollToTop {
+	cursor: pointer;
+	font-size: 0.9em;
+	position: fixed;
+	text-align: center;
+	z-index: 9999;
+	-webkit-transition: background-color 0.2s ease-in-out;
+	-moz-transition: background-color 0.2s ease-in-out;
+	-ms-transition: background-color 0.2s ease-in-out;
+	-o-transition: background-color 0.2s ease-in-out;
+	transition: background-color 0.2s ease-in-out;
+
+	background: #6897cc;
+	color: #ffffff;
+	border-radius: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	right: 20px; bottom: 30px;
+}
+
+#scrollToTop:hover {
+	background: #0088cc;
+	color: #ffffff;
+}
+
+#scrollToTop > img {
+	display: block;
+	margin: 0 auto;
+}a.thumbnail {display: inline-block; zoom: 1; *display: inline;}div.mod_search90 input[type="search"]{ width:auto; }
+	</style>
+	<script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+	<script src="/media/system/js/core.js" type="text/javascript"></script>
+	<script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+	<script src="/media/plg_system_sl_scrolltotop/js/scrolltotop_mt.js" type="text/javascript"></script>
+	<script src="/media/com_attachments/js/attachments_refresh.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/plugins/system/imagesizer/lbscripts/lightbox2/lightbox.min.js" type="text/javascript"></script>
+	<script src="/media/system/js/caption.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/media/modals/js/jquery.touchSwipe.min.js" type="text/javascript"></script>
+	<script src="/media/modals/js/jquery.colorbox-min.js" type="text/javascript"></script>
+	<script src="/media/modals/js/script.min.js?v=9.1.0" type="text/javascript"></script>
+	<script src="/plugins/system/jcemediabox/js/jcemediabox.min.js?1b6e86f0cf3db9f07a84a04e29a794e0" type="text/javascript"></script>
+	<script src="/media/system/js/html5fallback.js" type="text/javascript"></script>
+	<script src="/modules/mod_holidays/assets/js/snow.js" type="text/javascript"></script>
+	<script src="/modules/mod_holidays/assets/js/garland.js" type="text/javascript"></script>
+	<script type="text/javascript">
+document.addEvent('domready', function() {
+	new Skyline_ScrollToTop({
+		'image':		'',
+		'text':			'Наверх',
+		'title':		'Наверх',
+		'className':	'scrollToTop',
+		'duration':		500,
+		'transition':	Fx.Transitions.linear
+	});
+});jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});jQuery(function($){ $(".hasTooltip").tooltip({"html": true,"container": "body"}); });
+ var modals_class = 'modal_link'; var modals_defaults = { opacity: '0.8',maxWidth: '95%',maxHeight: '95%',current: '{current} / {total}',previous: 'previous',next: 'next',close: 'close',xhrError: 'This content failed to load.',imgError: 'This image failed to load.' }; 
+jQuery(document).ready(function(){WFMediaBox.init({"base":"\/","theme":"standard","mediafallback":0,"mediaselector":"audio,video","width":"","height":"","lightbox":0,"shadowbox":0,"icons":1,"overlay":1,"overlay_opacity":0.8,"overlay_color":"#000000","transition_speed":500,"close":2,"scrolling":"fixed","labels":{"close":"Close","next":"Next","previous":"Previous","cancel":"Cancel","numbers":"{{numbers}}","numbers_count":"{{current}} of {{total}}"}});});
+jQuery(document).ready(function ($) {
+  $("[data-toggle=\"offcanvas\"]").click(function () {
+    var id = $(this).data("id");
+    var targetClass = $(this).data("class");
+    $(id).closest(".offcanvas").toggleClass(targetClass)
+  });
+});
+
+			sl_snowfalling.flakesMax			= 128;
+			sl_snowfalling.flakesMaxActive		= 64;
+			sl_snowfalling.animationInterval	= 33;
+			sl_snowfalling.followMouse			= false;
+			sl_snowfalling.snowColor			= '#e2e9f5';
+			sl_snowfalling.snowCharacter		= '❄';
+			sl_snowfalling.snowStick			= true;
+			sl_snowfalling.zIndex				= 9999;
+		
+	</script>
+
+    <meta property="og:title" content="ГБПОУ Курганский педагогический колледж - Расписание"/><link rel="icon" href="https://kpk.kss45.ru/favicon.ico" type="image/x-icon">
+<!-- OpenGraph - для персонализации ссылок в социальных сетях-->
+<meta property="og:description" content=" "/>
+<meta property="og:image" content="https://kpk.kss45.ru/opengraph_logo.png">
+<meta property="og:locale" content="ru_RU" />
+<meta property="og:image:type" content="image/jpeg" />
+<link rel="image_src" href="https://kpk.kss45.ru/opengraph_logo.png" />
+<!-- Общий вид страниц-->
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,user-scalable=yes">
+<meta name="MobileOptimized" content="176">
+<meta http-equiv="cleartype" content="on">
+<!-- Для персонализации закладок на мобильных устройствах-->
+<meta name="apple-mobile-web-app-title" content="КПК">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="apple-touch-startup-image" href="https://kpk.kss45.ru/opengraph_logo.png">
+<link rel="apple-touch-icon" href="https://kpk.kss45.ru/icon_mobile.png">
+<meta name="application-name" content="КПК">
+<meta name="mobile-web-app-capable" content="yes">
+<link rel="icon" sizes="310x310" href="https://kpk.kss45.ru/icon_mobile.png">
+<meta name="theme-color" content="#4594c4">
+<meta name="msapplication-tooltip" content="Сайт ГБПОУ Курганский педагогический колледж">
+<meta name="msapplication-navbutton-color" content="#4594c4">
+<meta name="msapplication-TileColor" content="#4594c4">
+<meta name="msapplication-square310x310logo" content="https://kpk.kss45.ru/icon_mobile.png">
+<meta name="msapplication-TileImage" content="https://kpk.kss45.ru/icon_mobile.png">
+<link rel="shortcut icon" href="/images/favicon.ico" />
+
+<link rel="stylesheet" href="/templates/apas/css/bootstrap/bootstrap.min.css" type="text/css" />
+<link id="mainCSS" rel="stylesheet" href="/templates/apas/css/template.css" type="text/css" />
+<link rel="stylesheet" href="/templates/apas/css/custom.css?1608968485" type="text/css" />
+
+<style type="text/css">
+
+body,#apas-footer
+{background-color:#214b75;}
+.apas-header,.apas-maincontent
+{background-color:#4d83b8;}
+.apas-module-sidebar h3,.navigation-bottom
+{background-image:linear-gradient(#66A6CF 0%, #4d83b8 100%);}
+.apas-content-outer,.sidebar-offcanvas > div,.apas-breadcrumbs ul
+{background-color:#ffffff;}
+
+.sidebar-offcanvas h3,.navigation-bottom
+{background-color:#4d83b8;}
+
+body
+{color:#333333;}
+#apas-footer
+{color:#bbbbbb;}
+body a
+{color:#212c59;}
+
+.apas-nav ul ul,.navigation-top div > ul > li > a,.navigation-top div > ul > li > span,.navigation-top
+{border-color:#deeaf7!important;}
+.apas-module-sidebar,.apas-content-outer,.apas-breadcrumbs,#content-outer,.navigation-bottom,.navigation-bottom div > ul > li > *,.navigation-bottom div > ul > li:first-child *
+{border-color:#eeeeee!important;}
+#apas-footer h3
+{border-color:#444444;}
+
+</style>
+
+<script async> 
+var $buoop = {vs:{i:9,f:25,o:20,s:7},c:0}; 
+function $buo_f(){ 
+ var e = document.createElement("script"); 
+ e.src = "//kpk.kss45.ru/browser/update.min.js"; 
+ document.body.appendChild(e);
+};
+try {document.addEventListener("DOMContentLoaded", $buo_f,false)}
+catch(e){window.attachEvent("onload", $buo_f)}
+</script> 
+
+  	<meta name="google-site-verification" content="W0EmgL0DCQ0e614wuUlM9b6wJF9PPGXLyDjIBT3OCsI" />
+ 
+  </head>
+
+<body class="category-view ">
+
+    
+    <div class="offcanvas">
+            <div class="col-sm-3 offcanvas-smartphones sidebar-offcanvas offcanvas-right visible-xs">
+        	<div class="module">		<div class="moduletable">
+						<ul class="nav menu">
+<li class="item-101 default"><a href="/" >Главная</a></li><li class="item-228 deeper parent"><a href="/сведения-об-образовательной-организации.html" title="Приказ Рособрнадзора от 29.05.2014 №785">Сведения об образовательной организации</a><ul class="nav-child unstyled small"><li class="item-231 deeper parent"><a href="/сведения-об-образовательной-организации/osnovnye-svedeniya-2.html" >Основные сведения</a><ul class="nav-child unstyled small"><li class="item-230"><a href="/сведения-об-образовательной-организации/osnovnye-svedeniya-2/дата-создания-образовательной-организации-2.html" >Дата создания образовательной организации</a></li><li class="item-232"><a href="/сведения-об-образовательной-организации/osnovnye-svedeniya-2/учредитель.html" >Учредитель образовательной организации</a></li><li class="item-235"><a href="/сведения-об-образовательной-организации/osnovnye-svedeniya-2/место-нахождения-образовательной-организации-и-филиала-2.html" >Место нахождения образовательной организации и филиала</a></li><li class="item-238"><a href="/сведения-об-образовательной-организации/osnovnye-svedeniya-2/режим-и-график-работы-колледжа-2.html" >Режим и график работы колледжа</a></li><li class="item-241"><a href="/сведения-об-образовательной-организации/osnovnye-svedeniya-2/контактные-телефоны-и-адреса-электронной-почты-2.html" >Контактные телефоны и адреса электронной почты</a></li></ul></li><li class="item-310"><a href="/сведения-об-образовательной-организации/2016-01-24-17-11-47.html" >Структура и органы управления ГБПОУ &quot;Курганский педагогический колледж&quot;</a></li><li class="item-353"><a href="/сведения-об-образовательной-организации/документы.html" >Документы</a></li><li class="item-354"><a href="/сведения-об-образовательной-организации/образование.html" >Образование</a></li><li class="item-355"><a href="/сведения-об-образовательной-организации/образовательные-стандарты.html" >Образовательные стандарты</a></li><li class="item-356"><a href="/сведения-об-образовательной-организации/руководство-педагогический-научно-педагогический-состав.html" >Руководство. Педагогический (научно-педагогический) состав</a></li><li class="item-357"><a href="/сведения-об-образовательной-организации/материально-техническое-обеспечение-и-оснащенность-образовательного-процесса.html" >Материально-техническое обеспечение и оснащенность образовательного процесса</a></li><li class="item-358"><a href="/сведения-об-образовательной-организации/стипендии-и-иные-виды-материальной-поддержки.html" >Стипендии и иные виды материальной поддержки</a></li><li class="item-359"><a href="/сведения-об-образовательной-организации/платные-образовательные-услуги.html" >Платные образовательные услуги</a></li><li class="item-360"><a href="/сведения-об-образовательной-организации/финансово-хозяйственная-деятельность.html" >Финансово-хозяйственная деятельность</a></li><li class="item-361"><a href="/сведения-об-образовательной-организации/вакантные-места-для-приема-перевода.html" >Вакантные места для приема (перевода)</a></li><li class="item-613"><a href="/сведения-об-образовательной-организации/информация-о-трудоустройстве-выпускников.html" >Информация о трудоустройстве выпускников</a></li></ul></li><li class="item-397 deeper parent"><a href="/куртамышский-филиал.html" >Куртамышский филиал</a><ul class="nav-child unstyled small"><li class="item-398"><a href="/куртамышский-филиал/история-образовательной-организации.html" >История образовательной организации</a></li><li class="item-400"><a href="/куртамышский-филиал/новости.html" >Новости</a></li><li class="item-401"><a href="/куртамышский-филиал/расписание-учебных-занятий.html" >Расписание учебных занятий</a></li><li class="item-403"><a href="/куртамышский-филиал/задания-для-студентов-куртамышского-филиала.html" >Задания для студентов Куртамышского филиала</a></li></ul></li><li class="item-535 deeper parent"><a href="/допобразование.html" >Дополнительное образование</a><ul class="nav-child unstyled small"><li class="item-145 deeper parent"><a href="/допобразование/рцпо.html" >Дополнительные общеразвивающие программы</a><ul class="nav-child unstyled small"><li class="item-543"><a href="/допобразование/рцпо/расписание-занятий-хобби-центра.html" >Расписание занятий в ЦДО</a></li></ul></li><li class="item-147 deeper parent"><a href="/допобразование/дополнительные-профессиональные-программы.html" >Дополнительные профессиональные программы</a><ul class="nav-child unstyled small"><li class="item-371"><a href="/допобразование/дополнительные-профессиональные-программы/курсы-повешения-квалификации.html" >Курсы повышения квалификации</a></li><li class="item-570"><a href="/допобразование/дополнительные-профессиональные-программы/расписание-учебных-занятий-профессиональной-переподготовки-студентов.html" >Профессиональная переподготовка студентов</a></li></ul></li><li class="item-544"><a href="/допобразование/расписание-занятий-дополнительного-образования-студентов.html" >Расписание занятий дополнительного образования студентов</a></li></ul></li><li class="item-122"><a href="/вход.html" >Вход на сайт</a></li></ul>
+		</div>
+	</div>            <div class="module">		<div class="moduletable_menu">
+						<ul class="nav menu">
+<li class="item-104 deeper parent"><a href="/о-колледже.html" >О колледже</a><ul class="nav-child unstyled small"><li class="item-554"><a href="/о-колледже/главные-новости.html" >Новости</a></li><li class="item-606 deeper parent"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера.html" >Мастерские по приоритетной группе компетенций &quot;Социальная сфера&quot;</a><ul class="nav-child unstyled small"><li class="item-616"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера/мастерская-преподавание-в-младших-классах.html" >Мастерская &quot;Преподавание в младших классах&quot;</a></li><li class="item-615 deeper parent"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера/мастерская-дошкольное-воспитание.html" >Мастерская &quot;Дошкольное воспитание&quot;</a><ul class="nav-child unstyled small"><li class="item-627"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера/мастерская-дошкольное-воспитание/реализация-образовательных-программ-на-базе-мастерской-2.html" >Реализация образовательных программ на базе Мастерской 2</a></li></ul></li><li class="item-617"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера/мастерская-физическая-культура,-спорт-и-фитнес.html" >Мастерская &quot;Физическая культура, спорт и фитнес&quot;</a></li><li class="item-619"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера/мастерская-специальное-дошкольное-воспитание.html" >Мастерская &quot;Специальное дошкольное воспитание&quot;</a></li><li class="item-618"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера/мастерская-коррекционная-педагогика-в-младших-классах.html" >Мастерская &quot;Коррекционная педагогика в младших классах&quot;</a></li></ul></li><li class="item-193"><a href="/3dtour/" target="_blank">3D тур</a></li><li class="item-244"><a href="/о-колледже/календарь-событий.html" >Календарь событий</a></li><li class="item-437"><a href="/о-колледже/доступная-среда.html" >Доступная среда</a></li><li class="item-389"><a href="/о-колледже/противодействие-коррупции.html" >Противодействие коррупции</a></li><li class="item-527"><a href="/о-колледже/комплексная-безопасность.html" >Комплексная безопасность</a></li><li class="item-192"><a href="/о-колледже/фотогалерея.html" >Фотогалерея</a></li><li class="item-189"><a href="/о-колледже/музеи-колледжа.html" >Музеи колледжа</a></li><li class="item-390"><a href="/о-колледже/антитеррор.html" >Антитеррор</a></li><li class="item-378"><a href="/о-колледже/наши-реквизиты.html" >Наши реквизиты</a></li><li class="item-443"><a href="/о-колледже/госуслуги.html" >Госуслуги</a></li><li class="item-451"><a href="/о-колледже/всероссийский-физкультурно-спортивный-комплекс-гто.html" >Всероссийский физкультурно-спортивный комплекс ГТО</a></li><li class="item-490"><a href="/о-колледже/социологические-опросы.html" >Социологические опросы </a></li><li class="item-541"><a href="/о-колледже/обратная-связь1.html" >Обращения граждан/Обратная связь</a></li><li class="item-416 deeper parent"><a href="/о-колледже/worldskills-russia.html" >WORLDSKILLS RUSSIA</a><ul class="nav-child unstyled small"><li class="item-417"><a href="/о-колледже/worldskills-russia/афиша-регионального-чемпионата.html" >Афиша регионального чемпионата</a></li><li class="item-418"><a href="/о-колледже/worldskills-russia/участие-студентов-колледжа-в-чемпионатах-wsr.html" >Участие студентов колледжа в чемпионатах WSR</a></li><li class="item-419"><a href="/о-колледже/worldskills-russia/социальные-партнеры.html" >Социальные партнеры</a></li></ul></li><li class="item-575"><a href="/о-колледже/бесплатная-юридическая-помощь.html" >Бесплатная юридическая помощь</a></li><li class="item-612"><a href="/о-колледже/информационная-безопасность.html" >Информационная безопасность</a></li></ul></li><li class="item-186 deeper parent"><a href="/абитуриенту.html" >Абитуриенту</a><ul class="nav-child unstyled small"><li class="item-564 deeper parent"><a href="/абитуриенту/о-нашем-колледже.html" >О нашем колледже</a><ul class="nav-child unstyled small"><li class="item-565"><a href="https://kpk.kss45.ru/3dtour/" target="_blank">3D тур</a></li><li class="item-566"><a href="/абитуриенту/о-нашем-колледже/наши-музеи.html" >Наши музеи</a></li><li class="item-568"><a href="/абитуриенту/о-нашем-колледже/фотографии-колледжа.html" >Фотографии колледжа</a></li></ul></li><li class="item-351"><a href="/абитуриенту/календарь-событий-абитуриента.html" >Календарь абитуриента</a></li><li class="item-546"><a href="/абитуриенту/приемная-комиссия.html" >Приемная комиссия</a></li><li class="item-563"><a href="/абитуриенту/специальности-профессии.html" >Специальности / профессии</a></li><li class="item-343"><a href="/абитуриенту/лицензия-на-право-ведения-образовательной-деятельности-и-свидетельство-о-государственной-аккредитации.html" >Лицензия на право ведения образовательной деятельности и свидетельство о государственной аккредитации</a></li><li class="item-348"><a href="/абитуриенту/приказы.html" >Приказы о зачислении</a></li><li class="item-542"><a href="/абитуриенту/обратная-связь2.html" >Обратная связь</a></li></ul></li><li class="item-185 deeper parent"><a href="/студенту.html" >Студенту</a><ul class="nav-child unstyled small"><li class="item-557"><a href="/студенту/как-правильно-оформить-отсутствие-на-учебных-занятиях-2.html" >Как правильно оформить отсутствие на учебных занятиях</a></li><li class="item-267"><a href="/студенту/график-учебного-процесса.html" >График учебного процесса</a></li><li class="item-268 deeper parent"><a href="/студенту/аттестация-студентов.html" >Аттестация студентов</a><ul class="nav-child unstyled small"><li class="item-269"><a href="/студенту/аттестация-студентов/гиа.html" >ГИА</a></li><li class="item-270"><a href="/студенту/аттестация-студентов/промежуточная-аттестация.html" >Промежуточная аттестация</a></li><li class="item-572"><a href="/студенту/аттестация-студентов/демонстрационный-экзамен.html" >Демонстрационный экзамен</a></li></ul></li><li class="item-562"><a href="/студенту/расписание_пар-2.html" >Расписание</a></li><li class="item-191"><a href="/студенту/егэ-2016.html" >ЕГЭ</a></li><li class="item-556"><a href="/студенту/нирс-2.html" >Исследовательская работа студентов</a></li><li class="item-272 deeper parent"><a href="/студенту/практика.html" >Практика</a><ul class="nav-child unstyled small"><li class="item-273"><a href="/студенту/практика/итоги-практики.html" >Итоги практики</a></li><li class="item-274"><a href="/студенту/практика/документы-и-учебно-методические-материалы.html" >Документы и учебно-методические материалы</a></li></ul></li><li class="item-366 deeper parent"><a href="/студенту/дистанционные-технологии.html" >Дистанционные технологии</a><ul class="nav-child unstyled small"><li class="item-367"><a href="https://do.kpk.kss45.ru" target="_blank">Система поддержки учебного процесса Moodle</a></li><li class="item-368"><a href="https://vm.kpk.kss45.ru/service/" target="_blank">Система видеоконференций VideoMost</a></li><li class="item-369"><a href="/студенту/дистанционные-технологии/файловый-архив.html" >Файловый архив</a></li></ul></li><li class="item-332"><a href="/студенту/студенту-заочного-отделения.html" >Студенту заочного отделения</a></li><li class="item-526"><a href="/студенту/нормативные-документы.html" >Нормативные документы</a></li><li class="item-277"><a href="/студенту/расписание-занятий-кружков,-секций-и-студий.html" >Расписание занятий  дополнительного образования</a></li><li class="item-103"><a href="/студенту/2015-12-22-13-51-26.html" >Студенческое самоуправление</a></li><li class="item-334 deeper parent"><a href="/студенту/общественные-организации-и-объединения.html" >Общественные организации и объединения</a><ul class="nav-child unstyled small"><li class="item-335"><a href="/студенту/общественные-организации-и-объединения/молодежная-организация-ювентис.html" >Молодежная организация &quot;Ювентис&quot;</a></li><li class="item-336"><a href="/студенту/общественные-организации-и-объединения/волонтерский-отряд-ювентис.html" >Волонтерский отряд &quot;Ювентис&quot;</a></li><li class="item-337"><a href="/студенту/общественные-организации-и-объединения/педагогический-отряд-ювентис.html" >Педагогический отряд &quot;Ювентис&quot;</a></li><li class="item-338"><a href="/студенту/общественные-организации-и-объединения/студенческий-спортивный-клуб-олимп.html" >Студенческий спортивный клуб &quot;Олимп&quot;</a></li><li class="item-339"><a href="/студенту/общественные-организации-и-объединения/студенческая-профсоюзная-организация.html" >Студенческая профсоюзная организация</a></li></ul></li><li class="item-340"><a href="/студенту/независимая-общеколледжная-газета-зеркало.html" >Медиацентр &quot;БАНАН&quot;</a></li><li class="item-341"><a href="/студенту/общежитие.html" >Общежитие</a></li><li class="item-280 deeper parent"><a href="/студенту/кабинет-психолога.html" >Кабинет психолога</a><ul class="nav-child unstyled small"><li class="item-281"><a href="/студенту/кабинет-психолога/студентам.html" >Студентам</a></li><li class="item-484"><a href="/студенту/кабинет-психолога/результаты-диагностик.html" >Результаты диагностик</a></li><li class="item-486"><a href="/студенту/кабинет-психолога/фотопроекты.html" >Фотопроекты</a></li></ul></li><li class="item-283"><a href="/студенту/кабинет-социального-педагога.html" >Кабинет социального педагога</a></li><li class="item-560"><a href="/студенту/анкета-для-студентов.html" >Анкета для студентов</a></li><li class="item-585"><a href="/студенту/информационная-безопасность-2.html" >Информационная безопасность</a></li><li class="item-587"><a href="/студенту/комплексная-безопасность.html" >Комплексная безопасность</a></li></ul></li><li class="item-108 deeper parent"><a href="/2015-12-22-15-39-34.html" >Преподавателю</a><ul class="nav-child unstyled small"><li class="item-555"><a href="/2015-12-22-15-39-34/график-учебного-процесса-2.html" >График учебного процесса</a></li><li class="item-559"><a href="/2015-12-22-15-39-34/приказы-и-распоряжения.html" >Приказы и распоряжения</a></li><li class="item-558"><a href="/2015-12-22-15-39-34/аттестация-студентов-2.html" >Аттестация студентов</a></li><li class="item-129 deeper parent"><a href="/2015-12-22-15-39-34/нирс.html" >Исследовательская работа студентов</a><ul class="nav-child unstyled small"><li class="item-131"><a href="/2015-12-22-15-39-34/нирс/вкр.html" >ВКР</a></li><li class="item-130"><a href="/2015-12-22-15-39-34/нирс/кр.html" >КР</a></li></ul></li><li class="item-124"><a href="/2015-12-22-15-39-34/методический-кабинет.html" >Приглашаем к участию</a></li><li class="item-126"><a href="/2015-12-22-15-39-34/аттестация.html" >Аттестация</a></li><li class="item-127"><a href="/2015-12-22-15-39-34/передовой-педагогический-опыт.html" >Передовой педагогический опыт</a></li><li class="item-139 deeper parent"><a href="/2015-12-22-15-39-34/методические-объединения.html" >Планирование работы колледжа</a><ul class="nav-child unstyled small"><li class="item-455"><a href="https://kpk.kss45.ru/m" target="_blank">Сайт преподавателя Менщиковой С.В.</a></li></ul></li><li class="item-545"><a href="/2015-12-22-15-39-34/инновационная-деятельность.html" >Инновационная деятельность</a></li><li class="item-415"><a href="/2015-12-22-15-39-34/самообследование.html" >Самообследование</a></li><li class="item-516"><a href="/2015-12-22-15-39-34/деятельность-экспертного-совета.html" >Деятельность Экспертного совета</a></li><li class="item-102"><a href="/2015-12-22-15-39-34/vospitatelnye-programmy.html" >Воспитательные программы, план воспитательных мероприятий</a></li></ul></li><li class="item-195 deeper parent"><a href="/наши-достижения.html" >Наши достижения</a><ul class="nav-child unstyled small"><li class="item-372"><a href="/наши-достижения/олимпиады.html" >Олимпиады</a></li><li class="item-373"><a href="/наши-достижения/конкурсы.html" >Конкурсы</a></li><li class="item-374"><a href="/наши-достижения/конференции.html" >Конференции</a></li><li class="item-375"><a href="/наши-достижения/фестивали-и-выставки.html" >Фестивали и выставки</a></li><li class="item-376"><a href="/наши-достижения/спортивные-достижения.html" >Спортивные достижения</a></li><li class="item-377"><a href="/наши-достижения/достижения-преподавателей.html" >Достижения преподавателей</a></li><li class="item-432"><a href="/наши-достижения/worldskills-russia.html" >WorldSkills Russia</a></li></ul></li><li class="item-405 deeper parent"><a href="/trud.html" >Трудоустройство</a><ul class="nav-child unstyled small"><li class="item-531"><a href="/trud/служба-содействия-трудоустройству.html" >Новости Службы содействия трудоустройству</a></li><li class="item-533"><a href="/trud/направления-работы-службы-содействия-трудоустройству-выпускников-колледжа.html" >Направления работы службы содействия трудоустройству выпускников колледжа</a></li><li class="item-532"><a href="/trud/итоги-трудоустройства-выпускников-колледжа.html" >Итоги трудоустройства выпускников колледжа</a></li><li class="item-569"><a href="/trud/наши-выпускники.html" >Наши выпускники</a></li><li class="item-514"><a href="/trud/разместить-вакансию-для-работодателей.html" >Разместить вакансию (для работодателей)</a></li><li class="item-534"><a href="/trud/банк-вакансий.html" >Банк вакансий</a></li></ul></li><li class="item-536 deeper parent"><a href="/информация-для-родителей.html" >Родителям</a><ul class="nav-child unstyled small"><li class="item-550"><a href="/информация-для-родителей/информация-об-условиях-охраны-здоровья-обучающихся.html" >Информация об условиях охраны здоровья обучающихся</a></li><li class="item-551"><a href="/информация-для-родителей/питание-студентов.html" >Питание студентов</a></li><li class="item-552"><a href="/информация-для-родителей/внеучебная-занятость-–-важнейший-фактор-профилактики-правонарушений.html" >Внеучебная занятость – важнейший фактор профилактики правонарушений</a></li><li class="item-549"><a href="/информация-для-родителей/как-правильно-оформить-отсутствие-на-учебных-занятиях.html" >Как правильно оформить отсутствие на учебных занятиях </a></li><li class="item-537"><a href="/информация-для-родителей/советы-социального-педагога.html" >Советы социального педагога</a></li><li class="item-538"><a href="/информация-для-родителей/советы-психолога.html" >Советы психолога</a></li><li class="item-539"><a href="/информация-для-родителей/итоги-трудоустройства-выпускников-колледжа.html" >Итоги трудоустройства выпускников колледжа</a></li><li class="item-553"><a href="/информация-для-родителей/анкета-для-родителей.html" >Анкета для родителей</a></li><li class="item-574"><a href="/информация-для-родителей/информационная-безопасность.html" >Информационная безопасность</a></li><li class="item-540"><a href="/информация-для-родителей/обратная-связь.html" >Обратная связь</a></li><li class="item-588"><a href="/информация-для-родителей/комплексная-безопасность.html" >Комплексная безопасность</a></li><li class="item-413 current active"><a href="/учебная-работа/расписание_пар.html" >Расписание</a></li></ul></li><li class="item-628 deeper parent"><a href="/целевая-модель-наставничества.html" >Целевая модель наставничества</a><ul class="nav-child unstyled small"><li class="item-629"><a href="/целевая-модель-наставничества/1-нормативно-правовое-обеспечение.html" >1. Нормативно-правовое обеспечение</a></li><li class="item-630"><a href="/целевая-модель-наставничества/2-цель-и-задачи-наставничества.html" >2. Цель и задачи наставничества</a></li><li class="item-631"><a href="/целевая-модель-наставничества/3-формы-наставничества-в-колледже.html" >3. Формы наставничества в колледже</a></li><li class="item-632"><a href="/целевая-модель-наставничества/4-этапы-наставнической-деятельности-в-колледже.html" >4. Этапы наставнической деятельности в колледже</a></li><li class="item-633"><a href="/целевая-модель-наставничества/5-дорожная-карта-внедрения-и-реализации-целевой-модели-наставничества-в-гбпоу-«курганский-педагогический-колледж».html" >5. Дорожная карта внедрения и реализации целевой модели наставничества в ГБПОУ «Курганский педагогический колледж»</a></li><li class="item-634"><a href="/целевая-модель-наставничества/6-мероприятия.html" >6. Мероприятия</a></li></ul></li></ul>
+		</div>
+	</div>        </div>
+         
+                <nav class="navbar navigation-top navbar-fixed-top apas-nav">
+       
+            <div class="container" >
+                <div class="brand-logo visible-xs">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p id="nomobile"><span style="color: #ffffff;">Государственное бюджетное профессиональное образовательное учреждение</span></p>
+<p><span style="color: #ffffff;"><span style="font-size: 120%;"><b>"КУРГАНСКИЙ ПЕДАГОГИЧЕСКИЙ КОЛЛЕДЖ"</b></span></span></p></div>
+		</div>
+	</div>				<button id="updajax" class="btn navbar-toggle visible-xs" data-toggle="offcanvas" data-id=".offcanvas-smartphones" data-class="active-right");>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>			    <div class="hidden-xs pull-left">		<div class="moduletable">
+						<ul class="nav menu">
+<li class="item-101 default"><a href="/" >Главная</a></li><li class="item-228 deeper parent"><a href="/сведения-об-образовательной-организации.html" title="Приказ Рособрнадзора от 29.05.2014 №785">Сведения об образовательной организации</a><ul class="nav-child unstyled small"><li class="item-231 deeper parent"><a href="/сведения-об-образовательной-организации/osnovnye-svedeniya-2.html" >Основные сведения</a><ul class="nav-child unstyled small"><li class="item-230"><a href="/сведения-об-образовательной-организации/osnovnye-svedeniya-2/дата-создания-образовательной-организации-2.html" >Дата создания образовательной организации</a></li><li class="item-232"><a href="/сведения-об-образовательной-организации/osnovnye-svedeniya-2/учредитель.html" >Учредитель образовательной организации</a></li><li class="item-235"><a href="/сведения-об-образовательной-организации/osnovnye-svedeniya-2/место-нахождения-образовательной-организации-и-филиала-2.html" >Место нахождения образовательной организации и филиала</a></li><li class="item-238"><a href="/сведения-об-образовательной-организации/osnovnye-svedeniya-2/режим-и-график-работы-колледжа-2.html" >Режим и график работы колледжа</a></li><li class="item-241"><a href="/сведения-об-образовательной-организации/osnovnye-svedeniya-2/контактные-телефоны-и-адреса-электронной-почты-2.html" >Контактные телефоны и адреса электронной почты</a></li></ul></li><li class="item-310"><a href="/сведения-об-образовательной-организации/2016-01-24-17-11-47.html" >Структура и органы управления ГБПОУ &quot;Курганский педагогический колледж&quot;</a></li><li class="item-353"><a href="/сведения-об-образовательной-организации/документы.html" >Документы</a></li><li class="item-354"><a href="/сведения-об-образовательной-организации/образование.html" >Образование</a></li><li class="item-355"><a href="/сведения-об-образовательной-организации/образовательные-стандарты.html" >Образовательные стандарты</a></li><li class="item-356"><a href="/сведения-об-образовательной-организации/руководство-педагогический-научно-педагогический-состав.html" >Руководство. Педагогический (научно-педагогический) состав</a></li><li class="item-357"><a href="/сведения-об-образовательной-организации/материально-техническое-обеспечение-и-оснащенность-образовательного-процесса.html" >Материально-техническое обеспечение и оснащенность образовательного процесса</a></li><li class="item-358"><a href="/сведения-об-образовательной-организации/стипендии-и-иные-виды-материальной-поддержки.html" >Стипендии и иные виды материальной поддержки</a></li><li class="item-359"><a href="/сведения-об-образовательной-организации/платные-образовательные-услуги.html" >Платные образовательные услуги</a></li><li class="item-360"><a href="/сведения-об-образовательной-организации/финансово-хозяйственная-деятельность.html" >Финансово-хозяйственная деятельность</a></li><li class="item-361"><a href="/сведения-об-образовательной-организации/вакантные-места-для-приема-перевода.html" >Вакантные места для приема (перевода)</a></li><li class="item-613"><a href="/сведения-об-образовательной-организации/информация-о-трудоустройстве-выпускников.html" >Информация о трудоустройстве выпускников</a></li></ul></li><li class="item-397 deeper parent"><a href="/куртамышский-филиал.html" >Куртамышский филиал</a><ul class="nav-child unstyled small"><li class="item-398"><a href="/куртамышский-филиал/история-образовательной-организации.html" >История образовательной организации</a></li><li class="item-400"><a href="/куртамышский-филиал/новости.html" >Новости</a></li><li class="item-401"><a href="/куртамышский-филиал/расписание-учебных-занятий.html" >Расписание учебных занятий</a></li><li class="item-403"><a href="/куртамышский-филиал/задания-для-студентов-куртамышского-филиала.html" >Задания для студентов Куртамышского филиала</a></li></ul></li><li class="item-535 deeper parent"><a href="/допобразование.html" >Дополнительное образование</a><ul class="nav-child unstyled small"><li class="item-145 deeper parent"><a href="/допобразование/рцпо.html" >Дополнительные общеразвивающие программы</a><ul class="nav-child unstyled small"><li class="item-543"><a href="/допобразование/рцпо/расписание-занятий-хобби-центра.html" >Расписание занятий в ЦДО</a></li></ul></li><li class="item-147 deeper parent"><a href="/допобразование/дополнительные-профессиональные-программы.html" >Дополнительные профессиональные программы</a><ul class="nav-child unstyled small"><li class="item-371"><a href="/допобразование/дополнительные-профессиональные-программы/курсы-повешения-квалификации.html" >Курсы повышения квалификации</a></li><li class="item-570"><a href="/допобразование/дополнительные-профессиональные-программы/расписание-учебных-занятий-профессиональной-переподготовки-студентов.html" >Профессиональная переподготовка студентов</a></li></ul></li><li class="item-544"><a href="/допобразование/расписание-занятий-дополнительного-образования-студентов.html" >Расписание занятий дополнительного образования студентов</a></li></ul></li><li class="item-122"><a href="/вход.html" >Вход на сайт</a></li></ul>
+		</div>
+	</div>                            </div>
+        </nav>
+            
+        <div class="apas-headerfull">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div id="selector"><a id="selector" href="/spec/">Версия для слабовидящих</a></div></div>
+		</div>
+			<div class="moduletable">
+						
+
+<div class="custom"  >
+	<h6> </h6>
+<p> </p></div>
+		</div>
+			<div class="moduletable">
+									<div class="b-page_newyear">
+				<div class="b-page__content">
+				<i class="b-head-decor">
+					<i class="b-head-decor__inner b-head-decor__inner_n1">
+					<div class="b-ball b-ball_n1 b-ball_bounce" data-note="0"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n2 b-ball_bounce" data-note="1"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n3 b-ball_bounce" data-note="2"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n4 b-ball_bounce" data-note="3"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n5 b-ball_bounce" data-note="4"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n6 b-ball_bounce" data-note="5"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n7 b-ball_bounce" data-note="6"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n8 b-ball_bounce" data-note="7"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n9 b-ball_bounce" data-note="8"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i1"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i2"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i3"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i4"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i5"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i6"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					</i>
+					<i class="b-head-decor__inner b-head-decor__inner_n2">
+					<div class="b-ball b-ball_n1 b-ball_bounce" data-note="9"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n2 b-ball_bounce" data-note="10"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n3 b-ball_bounce" data-note="11"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n4 b-ball_bounce" data-note="12"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n5 b-ball_bounce" data-note="13"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n6 b-ball_bounce" data-note="14"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n7 b-ball_bounce" data-note="15"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n8 b-ball_bounce" data-note="16"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n9 b-ball_bounce" data-note="17"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i1"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i2"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i3"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i4"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i5"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i6"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					</i>
+					<i class="b-head-decor__inner b-head-decor__inner_n3">
+					<div class="b-ball b-ball_n1 b-ball_bounce" data-note="18"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n2 b-ball_bounce" data-note="19"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n3 b-ball_bounce" data-note="20"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n4 b-ball_bounce" data-note="21"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n5 b-ball_bounce" data-note="22"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n6 b-ball_bounce" data-note="23"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n7 b-ball_bounce" data-note="24"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n8 b-ball_bounce" data-note="25"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n9 b-ball_bounce" data-note="26"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i1"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i2"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i3"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i4"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i5"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i6"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					</i>
+					<i class="b-head-decor__inner b-head-decor__inner_n4">
+					<div class="b-ball b-ball_n1 b-ball_bounce" data-note="27"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n2 b-ball_bounce" data-note="28"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n3 b-ball_bounce" data-note="29"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n4 b-ball_bounce" data-note="30"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n5 b-ball_bounce" data-note="31"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n6 b-ball_bounce" data-note="32"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n7 b-ball_bounce" data-note="33"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n8 b-ball_bounce" data-note="34"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n9 b-ball_bounce" data-note="35"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i1"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i2"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i3"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i4"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i5"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i6"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					</i>
+					<i class="b-head-decor__inner b-head-decor__inner_n5">
+					<div class="b-ball b-ball_n1 b-ball_bounce" data-note="0"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n2 b-ball_bounce" data-note="1"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n3 b-ball_bounce" data-note="2"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n4 b-ball_bounce" data-note="3"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n5 b-ball_bounce" data-note="4"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n6 b-ball_bounce" data-note="5"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n7 b-ball_bounce" data-note="6"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n8 b-ball_bounce" data-note="7"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n9 b-ball_bounce" data-note="8"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i1"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i2"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i3"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i4"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i5"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i6"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					</i>
+					<i class="b-head-decor__inner b-head-decor__inner_n6">
+					<div class="b-ball b-ball_n1 b-ball_bounce" data-note="9"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n2 b-ball_bounce" data-note="10"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n3 b-ball_bounce" data-note="11"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n4 b-ball_bounce" data-note="12"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n5 b-ball_bounce" data-note="13"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n6 b-ball_bounce" data-note="14"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n7 b-ball_bounce" data-note="15"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n8 b-ball_bounce" data-note="16"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n9 b-ball_bounce" data-note="17"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i1"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i2"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i3"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i4"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i5"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i6"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					</i>
+					<i class="b-head-decor__inner b-head-decor__inner_n7">
+					<div class="b-ball b-ball_n1 b-ball_bounce" data-note="18"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n2 b-ball_bounce" data-note="19"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n3 b-ball_bounce" data-note="20"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n4 b-ball_bounce" data-note="21"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n5 b-ball_bounce" data-note="22"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n6 b-ball_bounce" data-note="23"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n7 b-ball_bounce" data-note="24"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n8 b-ball_bounce" data-note="25"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_n9 b-ball_bounce" data-note="26"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i1"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i2"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i3"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i4"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i5"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					<div class="b-ball b-ball_i6"><div class="b-ball__right"></div><div class="b-ball__i"></div></div>
+					</i>
+				</i>
+				</div>
+			</div>
+
+
+
+					</div>
+	</div>       
+           
+  
+        <div class="apas-header">
+          
+            <div class="container">
+                                <div class="logo col-sm-7 hidden-xs">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<p id="nomobile"><span style="color: #ffffff;">Государственное бюджетное профессиональное образовательное учреждение</span></p>
+<p><span style="color: #ffffff;"><span style="font-size: 120%;"><b>"КУРГАНСКИЙ ПЕДАГОГИЧЕСКИЙ КОЛЛЕДЖ"</b></span></span></p></div>
+		</div>
+	</div>                <div class="apas-search col-sm-5">		<div class="moduletable">
+
+		
+			<div class="search mod_search90">
+	<form action="/учебная-работа/расписание_пар.html" method="post" class="form-inline">
+		<label for="mod-search-searchword" class="element-invisible">Искать...</label> <input name="searchword" id="mod-search-searchword" maxlength="200"  class="inputbox search-query" type="search" size="15" placeholder="Поиск..." />		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="413" />
+	</form>
+</div>
+
+		</div>
+
+	</div>            </div>
+        </div>
+        		
+        <div class="apas-maincontent">
+            
+            <div class="container">
+            
+                <div class="apas-module-container text-color-light"><div class="row"><div class="col-sm-12"><div class="apas-module apas-position-1">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<ul>
+<li id="topmenuitem"><a id="topmenuitem" href="/учебная-работа/расписание_пар.html">Расписание</a></li>
+<li id="topmenuitem"><a id="topmenuitem" href="/о-колледже/календарь-событий.html">Календарь событий</a></li>
+<li id="topmenuitem"><a id="topmenuitem" href="https://do.kpk.kss45.ru" target="_blank">Система Moodle</a></li>
+<li id="topmenuitem"><a id="topmenuitem" href="/будь-в-курсе.html">УИЦ</a></li>
+<li id="topmenuitem"><a id="topmenuitem" href="/о-колледже/доступная-среда.html">Доступная среда (БПОО)</a></li>
+<li id="topmenuitem"><a id="topmenuitem" href="/абитуриенту/приемная-комиссия.html">Приемная комиссия</a></li>
+<li id="topmenuitem"><a id="topmenuitem" href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера.html">Мастерские WSR</a></li>
+<li id="topmenuitem"><a id="topmenuitem" href="/преподавателю.html">Дистанционное обучение</a></li>
+<li id="topmenuitem"><a id="topmenuitem" href="/новости-регионального-центра.html">Абилимпикс 2020</a></li>
+</ul></div>
+		</div>
+	</div></div></div></div>                
+                <div class="apas-content-outer offcanvas clearfix"  >
+                                      
+                                        <div class="navigation-bottom apas-nav hidden-xs">
+                        <div class="row">
+                            <div class="col-xs-12  navigation-bottom-inner hidden-xs">		<div class="moduletable_menu">
+						<ul class="nav menu">
+<li class="item-104 deeper parent"><a href="/о-колледже.html" >О колледже</a><ul class="nav-child unstyled small"><li class="item-554"><a href="/о-колледже/главные-новости.html" >Новости</a></li><li class="item-606 deeper parent"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера.html" >Мастерские по приоритетной группе компетенций &quot;Социальная сфера&quot;</a><ul class="nav-child unstyled small"><li class="item-616"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера/мастерская-преподавание-в-младших-классах.html" >Мастерская &quot;Преподавание в младших классах&quot;</a></li><li class="item-615 deeper parent"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера/мастерская-дошкольное-воспитание.html" >Мастерская &quot;Дошкольное воспитание&quot;</a><ul class="nav-child unstyled small"><li class="item-627"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера/мастерская-дошкольное-воспитание/реализация-образовательных-программ-на-базе-мастерской-2.html" >Реализация образовательных программ на базе Мастерской 2</a></li></ul></li><li class="item-617"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера/мастерская-физическая-культура,-спорт-и-фитнес.html" >Мастерская &quot;Физическая культура, спорт и фитнес&quot;</a></li><li class="item-619"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера/мастерская-специальное-дошкольное-воспитание.html" >Мастерская &quot;Специальное дошкольное воспитание&quot;</a></li><li class="item-618"><a href="/о-колледже/мастерские-по-приоритетной-группе-компетенций-социальная-сфера/мастерская-коррекционная-педагогика-в-младших-классах.html" >Мастерская &quot;Коррекционная педагогика в младших классах&quot;</a></li></ul></li><li class="item-193"><a href="/3dtour/" target="_blank">3D тур</a></li><li class="item-244"><a href="/о-колледже/календарь-событий.html" >Календарь событий</a></li><li class="item-437"><a href="/о-колледже/доступная-среда.html" >Доступная среда</a></li><li class="item-389"><a href="/о-колледже/противодействие-коррупции.html" >Противодействие коррупции</a></li><li class="item-527"><a href="/о-колледже/комплексная-безопасность.html" >Комплексная безопасность</a></li><li class="item-192"><a href="/о-колледже/фотогалерея.html" >Фотогалерея</a></li><li class="item-189"><a href="/о-колледже/музеи-колледжа.html" >Музеи колледжа</a></li><li class="item-390"><a href="/о-колледже/антитеррор.html" >Антитеррор</a></li><li class="item-378"><a href="/о-колледже/наши-реквизиты.html" >Наши реквизиты</a></li><li class="item-443"><a href="/о-колледже/госуслуги.html" >Госуслуги</a></li><li class="item-451"><a href="/о-колледже/всероссийский-физкультурно-спортивный-комплекс-гто.html" >Всероссийский физкультурно-спортивный комплекс ГТО</a></li><li class="item-490"><a href="/о-колледже/социологические-опросы.html" >Социологические опросы </a></li><li class="item-541"><a href="/о-колледже/обратная-связь1.html" >Обращения граждан/Обратная связь</a></li><li class="item-416 deeper parent"><a href="/о-колледже/worldskills-russia.html" >WORLDSKILLS RUSSIA</a><ul class="nav-child unstyled small"><li class="item-417"><a href="/о-колледже/worldskills-russia/афиша-регионального-чемпионата.html" >Афиша регионального чемпионата</a></li><li class="item-418"><a href="/о-колледже/worldskills-russia/участие-студентов-колледжа-в-чемпионатах-wsr.html" >Участие студентов колледжа в чемпионатах WSR</a></li><li class="item-419"><a href="/о-колледже/worldskills-russia/социальные-партнеры.html" >Социальные партнеры</a></li></ul></li><li class="item-575"><a href="/о-колледже/бесплатная-юридическая-помощь.html" >Бесплатная юридическая помощь</a></li><li class="item-612"><a href="/о-колледже/информационная-безопасность.html" >Информационная безопасность</a></li></ul></li><li class="item-186 deeper parent"><a href="/абитуриенту.html" >Абитуриенту</a><ul class="nav-child unstyled small"><li class="item-564 deeper parent"><a href="/абитуриенту/о-нашем-колледже.html" >О нашем колледже</a><ul class="nav-child unstyled small"><li class="item-565"><a href="https://kpk.kss45.ru/3dtour/" target="_blank">3D тур</a></li><li class="item-566"><a href="/абитуриенту/о-нашем-колледже/наши-музеи.html" >Наши музеи</a></li><li class="item-568"><a href="/абитуриенту/о-нашем-колледже/фотографии-колледжа.html" >Фотографии колледжа</a></li></ul></li><li class="item-351"><a href="/абитуриенту/календарь-событий-абитуриента.html" >Календарь абитуриента</a></li><li class="item-546"><a href="/абитуриенту/приемная-комиссия.html" >Приемная комиссия</a></li><li class="item-563"><a href="/абитуриенту/специальности-профессии.html" >Специальности / профессии</a></li><li class="item-343"><a href="/абитуриенту/лицензия-на-право-ведения-образовательной-деятельности-и-свидетельство-о-государственной-аккредитации.html" >Лицензия на право ведения образовательной деятельности и свидетельство о государственной аккредитации</a></li><li class="item-348"><a href="/абитуриенту/приказы.html" >Приказы о зачислении</a></li><li class="item-542"><a href="/абитуриенту/обратная-связь2.html" >Обратная связь</a></li></ul></li><li class="item-185 deeper parent"><a href="/студенту.html" >Студенту</a><ul class="nav-child unstyled small"><li class="item-557"><a href="/студенту/как-правильно-оформить-отсутствие-на-учебных-занятиях-2.html" >Как правильно оформить отсутствие на учебных занятиях</a></li><li class="item-267"><a href="/студенту/график-учебного-процесса.html" >График учебного процесса</a></li><li class="item-268 deeper parent"><a href="/студенту/аттестация-студентов.html" >Аттестация студентов</a><ul class="nav-child unstyled small"><li class="item-269"><a href="/студенту/аттестация-студентов/гиа.html" >ГИА</a></li><li class="item-270"><a href="/студенту/аттестация-студентов/промежуточная-аттестация.html" >Промежуточная аттестация</a></li><li class="item-572"><a href="/студенту/аттестация-студентов/демонстрационный-экзамен.html" >Демонстрационный экзамен</a></li></ul></li><li class="item-562"><a href="/студенту/расписание_пар-2.html" >Расписание</a></li><li class="item-191"><a href="/студенту/егэ-2016.html" >ЕГЭ</a></li><li class="item-556"><a href="/студенту/нирс-2.html" >Исследовательская работа студентов</a></li><li class="item-272 deeper parent"><a href="/студенту/практика.html" >Практика</a><ul class="nav-child unstyled small"><li class="item-273"><a href="/студенту/практика/итоги-практики.html" >Итоги практики</a></li><li class="item-274"><a href="/студенту/практика/документы-и-учебно-методические-материалы.html" >Документы и учебно-методические материалы</a></li></ul></li><li class="item-366 deeper parent"><a href="/студенту/дистанционные-технологии.html" >Дистанционные технологии</a><ul class="nav-child unstyled small"><li class="item-367"><a href="https://do.kpk.kss45.ru" target="_blank">Система поддержки учебного процесса Moodle</a></li><li class="item-368"><a href="https://vm.kpk.kss45.ru/service/" target="_blank">Система видеоконференций VideoMost</a></li><li class="item-369"><a href="/студенту/дистанционные-технологии/файловый-архив.html" >Файловый архив</a></li></ul></li><li class="item-332"><a href="/студенту/студенту-заочного-отделения.html" >Студенту заочного отделения</a></li><li class="item-526"><a href="/студенту/нормативные-документы.html" >Нормативные документы</a></li><li class="item-277"><a href="/студенту/расписание-занятий-кружков,-секций-и-студий.html" >Расписание занятий  дополнительного образования</a></li><li class="item-103"><a href="/студенту/2015-12-22-13-51-26.html" >Студенческое самоуправление</a></li><li class="item-334 deeper parent"><a href="/студенту/общественные-организации-и-объединения.html" >Общественные организации и объединения</a><ul class="nav-child unstyled small"><li class="item-335"><a href="/студенту/общественные-организации-и-объединения/молодежная-организация-ювентис.html" >Молодежная организация &quot;Ювентис&quot;</a></li><li class="item-336"><a href="/студенту/общественные-организации-и-объединения/волонтерский-отряд-ювентис.html" >Волонтерский отряд &quot;Ювентис&quot;</a></li><li class="item-337"><a href="/студенту/общественные-организации-и-объединения/педагогический-отряд-ювентис.html" >Педагогический отряд &quot;Ювентис&quot;</a></li><li class="item-338"><a href="/студенту/общественные-организации-и-объединения/студенческий-спортивный-клуб-олимп.html" >Студенческий спортивный клуб &quot;Олимп&quot;</a></li><li class="item-339"><a href="/студенту/общественные-организации-и-объединения/студенческая-профсоюзная-организация.html" >Студенческая профсоюзная организация</a></li></ul></li><li class="item-340"><a href="/студенту/независимая-общеколледжная-газета-зеркало.html" >Медиацентр &quot;БАНАН&quot;</a></li><li class="item-341"><a href="/студенту/общежитие.html" >Общежитие</a></li><li class="item-280 deeper parent"><a href="/студенту/кабинет-психолога.html" >Кабинет психолога</a><ul class="nav-child unstyled small"><li class="item-281"><a href="/студенту/кабинет-психолога/студентам.html" >Студентам</a></li><li class="item-484"><a href="/студенту/кабинет-психолога/результаты-диагностик.html" >Результаты диагностик</a></li><li class="item-486"><a href="/студенту/кабинет-психолога/фотопроекты.html" >Фотопроекты</a></li></ul></li><li class="item-283"><a href="/студенту/кабинет-социального-педагога.html" >Кабинет социального педагога</a></li><li class="item-560"><a href="/студенту/анкета-для-студентов.html" >Анкета для студентов</a></li><li class="item-585"><a href="/студенту/информационная-безопасность-2.html" >Информационная безопасность</a></li><li class="item-587"><a href="/студенту/комплексная-безопасность.html" >Комплексная безопасность</a></li></ul></li><li class="item-108 deeper parent"><a href="/2015-12-22-15-39-34.html" >Преподавателю</a><ul class="nav-child unstyled small"><li class="item-555"><a href="/2015-12-22-15-39-34/график-учебного-процесса-2.html" >График учебного процесса</a></li><li class="item-559"><a href="/2015-12-22-15-39-34/приказы-и-распоряжения.html" >Приказы и распоряжения</a></li><li class="item-558"><a href="/2015-12-22-15-39-34/аттестация-студентов-2.html" >Аттестация студентов</a></li><li class="item-129 deeper parent"><a href="/2015-12-22-15-39-34/нирс.html" >Исследовательская работа студентов</a><ul class="nav-child unstyled small"><li class="item-131"><a href="/2015-12-22-15-39-34/нирс/вкр.html" >ВКР</a></li><li class="item-130"><a href="/2015-12-22-15-39-34/нирс/кр.html" >КР</a></li></ul></li><li class="item-124"><a href="/2015-12-22-15-39-34/методический-кабинет.html" >Приглашаем к участию</a></li><li class="item-126"><a href="/2015-12-22-15-39-34/аттестация.html" >Аттестация</a></li><li class="item-127"><a href="/2015-12-22-15-39-34/передовой-педагогический-опыт.html" >Передовой педагогический опыт</a></li><li class="item-139 deeper parent"><a href="/2015-12-22-15-39-34/методические-объединения.html" >Планирование работы колледжа</a><ul class="nav-child unstyled small"><li class="item-455"><a href="https://kpk.kss45.ru/m" target="_blank">Сайт преподавателя Менщиковой С.В.</a></li></ul></li><li class="item-545"><a href="/2015-12-22-15-39-34/инновационная-деятельность.html" >Инновационная деятельность</a></li><li class="item-415"><a href="/2015-12-22-15-39-34/самообследование.html" >Самообследование</a></li><li class="item-516"><a href="/2015-12-22-15-39-34/деятельность-экспертного-совета.html" >Деятельность Экспертного совета</a></li><li class="item-102"><a href="/2015-12-22-15-39-34/vospitatelnye-programmy.html" >Воспитательные программы, план воспитательных мероприятий</a></li></ul></li><li class="item-195 deeper parent"><a href="/наши-достижения.html" >Наши достижения</a><ul class="nav-child unstyled small"><li class="item-372"><a href="/наши-достижения/олимпиады.html" >Олимпиады</a></li><li class="item-373"><a href="/наши-достижения/конкурсы.html" >Конкурсы</a></li><li class="item-374"><a href="/наши-достижения/конференции.html" >Конференции</a></li><li class="item-375"><a href="/наши-достижения/фестивали-и-выставки.html" >Фестивали и выставки</a></li><li class="item-376"><a href="/наши-достижения/спортивные-достижения.html" >Спортивные достижения</a></li><li class="item-377"><a href="/наши-достижения/достижения-преподавателей.html" >Достижения преподавателей</a></li><li class="item-432"><a href="/наши-достижения/worldskills-russia.html" >WorldSkills Russia</a></li></ul></li><li class="item-405 deeper parent"><a href="/trud.html" >Трудоустройство</a><ul class="nav-child unstyled small"><li class="item-531"><a href="/trud/служба-содействия-трудоустройству.html" >Новости Службы содействия трудоустройству</a></li><li class="item-533"><a href="/trud/направления-работы-службы-содействия-трудоустройству-выпускников-колледжа.html" >Направления работы службы содействия трудоустройству выпускников колледжа</a></li><li class="item-532"><a href="/trud/итоги-трудоустройства-выпускников-колледжа.html" >Итоги трудоустройства выпускников колледжа</a></li><li class="item-569"><a href="/trud/наши-выпускники.html" >Наши выпускники</a></li><li class="item-514"><a href="/trud/разместить-вакансию-для-работодателей.html" >Разместить вакансию (для работодателей)</a></li><li class="item-534"><a href="/trud/банк-вакансий.html" >Банк вакансий</a></li></ul></li><li class="item-536 deeper parent"><a href="/информация-для-родителей.html" >Родителям</a><ul class="nav-child unstyled small"><li class="item-550"><a href="/информация-для-родителей/информация-об-условиях-охраны-здоровья-обучающихся.html" >Информация об условиях охраны здоровья обучающихся</a></li><li class="item-551"><a href="/информация-для-родителей/питание-студентов.html" >Питание студентов</a></li><li class="item-552"><a href="/информация-для-родителей/внеучебная-занятость-–-важнейший-фактор-профилактики-правонарушений.html" >Внеучебная занятость – важнейший фактор профилактики правонарушений</a></li><li class="item-549"><a href="/информация-для-родителей/как-правильно-оформить-отсутствие-на-учебных-занятиях.html" >Как правильно оформить отсутствие на учебных занятиях </a></li><li class="item-537"><a href="/информация-для-родителей/советы-социального-педагога.html" >Советы социального педагога</a></li><li class="item-538"><a href="/информация-для-родителей/советы-психолога.html" >Советы психолога</a></li><li class="item-539"><a href="/информация-для-родителей/итоги-трудоустройства-выпускников-колледжа.html" >Итоги трудоустройства выпускников колледжа</a></li><li class="item-553"><a href="/информация-для-родителей/анкета-для-родителей.html" >Анкета для родителей</a></li><li class="item-574"><a href="/информация-для-родителей/информационная-безопасность.html" >Информационная безопасность</a></li><li class="item-540"><a href="/информация-для-родителей/обратная-связь.html" >Обратная связь</a></li><li class="item-588"><a href="/информация-для-родителей/комплексная-безопасность.html" >Комплексная безопасность</a></li><li class="item-413 current active"><a href="/учебная-работа/расписание_пар.html" >Расписание</a></li></ul></li><li class="item-628 deeper parent"><a href="/целевая-модель-наставничества.html" >Целевая модель наставничества</a><ul class="nav-child unstyled small"><li class="item-629"><a href="/целевая-модель-наставничества/1-нормативно-правовое-обеспечение.html" >1. Нормативно-правовое обеспечение</a></li><li class="item-630"><a href="/целевая-модель-наставничества/2-цель-и-задачи-наставничества.html" >2. Цель и задачи наставничества</a></li><li class="item-631"><a href="/целевая-модель-наставничества/3-формы-наставничества-в-колледже.html" >3. Формы наставничества в колледже</a></li><li class="item-632"><a href="/целевая-модель-наставничества/4-этапы-наставнической-деятельности-в-колледже.html" >4. Этапы наставнической деятельности в колледже</a></li><li class="item-633"><a href="/целевая-модель-наставничества/5-дорожная-карта-внедрения-и-реализации-целевой-модели-наставничества-в-гбпоу-«курганский-педагогический-колледж».html" >5. Дорожная карта внедрения и реализации целевой модели наставничества в ГБПОУ «Курганский педагогический колледж»</a></li><li class="item-634"><a href="/целевая-модель-наставничества/6-мероприятия.html" >6. Мероприятия</a></li></ul></li></ul>
+		</div>
+	</div>                                                        <button id="updajax" class="btn navbar-toggle visible-xs" data-toggle="offcanvas" data-id=".offcanvas-smartphones" data-class="active-right");>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>                        </div>
+                    </div>
+					
+                                        <jdoc:include type="modules" name='left-sidebar' >
+
+					            <div class="offcanvas-btn offcanvas-btn-left visible-xs" data-toggle="offcanvas" data-id="#left-sidebar" data-class="active-left">Меню раздела</div>
+            <div class="col-sm-3 sidebar-offcanvas offcanvas-left" id="left-sidebar">
+                <div class="apas-module-sidebar" ><div class="apas-module-inside mod_random_image"><div class="random-image">
+	<img src="/images/sluch_fofo/uch_r/dost1.jpg" alt="dost1.jpg" width="374.70725995316" height="250%" /></div>
+</div></div><div class="apas-module-sidebar" ><h3>Учебная работа</h3><div class="apas-module-inside mod_menu"><ul class="nav menu">
+<li class="item-289"><a href="/студенту/график-учебного-процесса.html" >График учебного процесса</a></li><li class="item-362 deeper parent"><a href="/дистанционные-технологии.html" >Дистанционные технологии</a><ul class="nav-child unstyled small"><li class="item-363"><a href="https://do.kpk.kss45.ru" target="_blank">Система поддержки учебного процесса Moodle</a></li><li class="item-364"><a href="https://vm.kpk.kss45.ru/services/" target="_blank">Система видеоконференций VideoMost</a></li><li class="item-365"><a href="/дистанционные-технологии/файловый-архив.html" >Файловый архив</a></li></ul></li><li class="item-290"><a href="/студенту/егэ-2016.html" >ЕГЭ</a></li><li class="item-301"><a href="https://login.dnevnik.ru/login/?ReturnUrl=http%3a%2f%2fschools.dnevnik.ru%2fschool.aspx" target="_blank">Электронный дневник</a></li><li class="item-291 divider deeper parent"><span class="separator ">Аттестация студентов</span>
+<ul class="nav-child unstyled small"><li class="item-292"><a href="/студенту/аттестация-студентов/гиа.html" >ГИА</a></li><li class="item-293"><a href="/студенту/аттестация-студентов/промежуточная-аттестация.html" >Промежуточная аттестация</a></li><li class="item-294"><a href="/аттестация-студентов-2/2016-01-23-04-43-35.html" >Административные контрольные работы</a></li><li class="item-573"><a href="/студенту/аттестация-студентов/демонстрационный-экзамен.html" >Демонстрационный экзамен</a></li></ul></li><li class="item-295 deeper parent"><span class="nav-header ">Практика</span>
+<ul class="nav-child unstyled small"><li class="item-296"><a href="/студенту/практика/итоги-практики.html" >Итоги практики</a></li><li class="item-297"><a href="/студенту/практика/документы-и-учебно-методические-материалы.html" >Документы и учебно-методические материалы</a></li></ul></li><li class="item-370"><a href="/студенту/студенту-заочного-отделения.html" >Студенту заочного отделения</a></li><li class="item-298"><a href="/2015-12-22-15-39-34/приказы-и-распоряжения.html" >Преподавателю</a></li><li class="item-420 deeper parent"><a href="/о-колледже/worldskills-russia.html" >WORLDSKILLS RUSSIA</a><ul class="nav-child unstyled small"><li class="item-421"><a href="/о-колледже/worldskills-russia/афиша-регионального-чемпионата.html" >Афиша регионального чемпионата</a></li><li class="item-422"><a href="/о-колледже/worldskills-russia/участие-студентов-колледжа-в-чемпионатах-wsr.html" >Участие студентов колледжа в чемпионатах WSR</a></li><li class="item-423"><a href="/о-колледже/worldskills-russia/социальные-партнеры.html" >Социальные партнеры</a></li></ul></li></ul>
+</div></div><div class="apas-module-sidebar" ><h3>Региональный центр движения «Абилимпикс» </h3><div class="apas-module-inside mod_menu"><ul class="nav menu">
+<li class="item-589"><a href="/новости-регионального-центра.html" >Новости регионального центра</a></li><li class="item-590"><a href="/документы-абилимпикс.html" >Документы </a></li><li class="item-591"><a href="/участникам-движения-«абилимпикс».html" >Участникам движения «Абилимпикс»</a></li><li class="item-592"><a href="/компетенции-движения-«абилимпикс».html" >Компетенции движения «Абилимпикс»</a></li><li class="item-593"><a href="/контакты-рц-движения-«абилимпикс».html" >Контакты РЦ движения «Абилимпикс»</a></li></ul>
+</div></div>
+            </div> 
+                          
+                    <div class="col-sm-9" id="content-outer"">
+                    
+                        <div class="apas-banner">
+
+<div class="custom"  >
+	</div>
+</div>        
+                        <div class="apas-breadcrumbs">		<div class="moduletable">
+						
+<ul itemscope itemtype="https://schema.org/BreadcrumbList" class="breadcrumb">
+			<li class="active">
+			<span class="divider icon-location"></span>
+		</li>
+	
+				<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a itemprop="item" href="/" class="pathway"><span itemprop="name">Главная</span></a>
+				
+									<span class="divider">
+						<img src="/media/system/images/arrow.png" alt="" />					</span>
+								<meta itemprop="position" content="1">
+			</li>
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+									<a itemprop="item" href="/учебная-работа.html" class="pathway"><span itemprop="name">Учебная работа</span></a>
+				
+									<span class="divider">
+						<img src="/media/system/images/arrow.png" alt="" />					</span>
+								<meta itemprop="position" content="2">
+			</li>
+					<li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem" class="active">
+				<span itemprop="name">
+					Расписание				</span>
+				<meta itemprop="position" content="3">
+			</li>
+		</ul>
+		</div>
+	</div>                        
+                        <div id="content">
+                            <div id="system-message-container">
+	</div>
+
+							<div style="height: 4px !important; overflow: hidden !important; position:absolute !important;">
+					<span style="line-height:26px !important;"> <a href="http://nachodki.ru/">nachodki.ru</a> интернет-магазин</span> 
+				</div>                            <div class="blog" itemscope itemtype="https://schema.org/Blog">
+	
+	
+	
+	
+	
+				<div class="items-leading clearfix">
+							<div class="leading-0"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 28-31 декабря									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2714-расписание-на-28-31-декабря.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 28-31 декабря >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=3e67cde9b618c7ae74de40a851f883245db1789b" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-12-14T22:45:36+05:00" itemprop="dateModified">
+					Обновлено: 14 декабря 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2714">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2714/Расписание на 28-31 декабря по группам.xls" target="_blank" title="Скачать этот файл (Расписание на 28-31 декабря по группам.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 28-31 декабря по группам.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2714/Расписание на 28-31 декабря по группам.xls" target="_blank" title="Скачать этот файл (Расписание на 28-31 декабря по группам.xls)">Расписание на 28-31 декабря по группам.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2714/Расписание на 28-31 декабря по преподавателям А-Л.xls" target="_blank" title="Скачать этот файл (Расписание на 28-31 декабря по преподавателям А-Л.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 28-31 декабря по преподавателям А-Л.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2714/Расписание на 28-31 декабря по преподавателям А-Л.xls" target="_blank" title="Скачать этот файл (Расписание на 28-31 декабря по преподавателям А-Л.xls)">Расписание на 28-31 декабря по преподавателям А-Л.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2714/Расписание на 28-31 декабря по преподавателям М-Щ.xls" target="_blank" title="Скачать этот файл (Расписание на 28-31 декабря по преподавателям М-Щ.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 28-31 декабря по преподавателям М-Щ.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2714/Расписание на 28-31 декабря по преподавателям М-Щ.xls" target="_blank" title="Скачать этот файл (Расписание на 28-31 декабря по преподавателям М-Щ.xls)">Расписание на 28-31 декабря по преподавателям М-Щ.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2714/Расписание на 28-31 декабря по аудиториям.xls" target="_blank" title="Скачать этот файл (Расписание на 28-31 декабря по аудиториям.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 28-31 декабря по аудиториям.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2714/Расписание на 28-31 декабря по аудиториям.xls" target="_blank" title="Скачать этот файл (Расписание на 28-31 декабря по аудиториям.xls)">Расписание на 28-31 декабря по аудиториям.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 21-26 декабря									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2713-расписание-на-21-26-декабря.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 21-26 декабря >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=3fc97004bdbda1eb0667a10cebcd03345b632953" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-12-14T22:45:00+05:00" itemprop="dateModified">
+					Обновлено: 14 декабря 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2713">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2713/Расписание на 21-26 декабря по группам.xls" target="_blank" title="Скачать этот файл (Расписание на 21-26 декабря по группам.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 21-26 декабря по группам.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2713/Расписание на 21-26 декабря по группам.xls" target="_blank" title="Скачать этот файл (Расписание на 21-26 декабря по группам.xls)">Расписание на 21-26 декабря по группам.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2713/Расписание на 21-26 декабря по преподавателям А-Л.xls" target="_blank" title="Скачать этот файл (Расписание на 21-26 декабря по преподавателям А-Л.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 21-26 декабря по преподавателям А-Л.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2713/Расписание на 21-26 декабря по преподавателям А-Л.xls" target="_blank" title="Скачать этот файл (Расписание на 21-26 декабря по преподавателям А-Л.xls)">Расписание на 21-26 декабря по преподавателям А-Л.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2713/Расписание на 21-26 декабря по преподавателям М-Щ.xls" target="_blank" title="Скачать этот файл (Расписание на 21-26 декабря по преподавателям М-Щ.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 21-26 декабря по преподавателям М-Щ.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2713/Расписание на 21-26 декабря по преподавателям М-Щ.xls" target="_blank" title="Скачать этот файл (Расписание на 21-26 декабря по преподавателям М-Щ.xls)">Расписание на 21-26 декабря по преподавателям М-Щ.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2713/Расписание на 21-26 декабря по аудиториям.xls" target="_blank" title="Скачать этот файл (Расписание на 21-26 декабря по аудиториям.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 21-26 декабря по аудиториям.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2713/Расписание на 21-26 декабря по аудиториям.xls" target="_blank" title="Скачать этот файл (Расписание на 21-26 декабря по аудиториям.xls)">Расписание на 21-26 декабря по аудиториям.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-2"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 14-19 декабря									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2703-расписание-на-14-19-декабря.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 14-19 декабря >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=07411e99074decc1ed9896bba25dfe98be177552" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-12-13T21:59:49+05:00" itemprop="dateModified">
+					Обновлено: 13 декабря 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p><img src="/images/stories/2016/141220.PNG" alt="" class="thumbnail" /></p>
+<p>ВНИМАНИЕ! Изменение в расписании группы 28 (Лукерьянова, Федулова)</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2703">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2703/Расписание на 14-19 декабря по группам2.xls" target="_blank" title="Скачать этот файл (Расписание на 14-19 декабря по группам2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 14-19 декабря по группам2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2703/Расписание на 14-19 декабря по группам2.xls" target="_blank" title="Скачать этот файл (Расписание на 14-19 декабря по группам2.xls)">Расписание на 14-19 декабря по группам2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2703/Расписание на 14-19 декабря по преподавателям А-Л 2.xls" target="_blank" title="Скачать этот файл (Расписание на 14-19 декабря по преподавателям А-Л 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 14-19 декабря по преподавателям А-Л 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2703/Расписание на 14-19 декабря по преподавателям А-Л 2.xls" target="_blank" title="Скачать этот файл (Расписание на 14-19 декабря по преподавателям А-Л 2.xls)">Расписание на 14-19 декабря по преподавателям А-Л 2.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2703/Расписание на 14-19 декабря по преподавателям М-Щ2.xls" target="_blank" title="Скачать этот файл (Расписание на 14-19 декабря по преподавателям М-Щ2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 14-19 декабря по преподавателям М-Щ2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2703/Расписание на 14-19 декабря по преподавателям М-Щ2.xls" target="_blank" title="Скачать этот файл (Расписание на 14-19 декабря по преподавателям М-Щ2.xls)">Расписание на 14-19 декабря по преподавателям М-Щ2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2703/Расписание на 14-19 декабря по аудиториям2.xls" target="_blank" title="Скачать этот файл (Расписание на 14-19 декабря по аудиториям2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 14-19 декабря по аудиториям2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2703/Расписание на 14-19 декабря по аудиториям2.xls" target="_blank" title="Скачать этот файл (Расписание на 14-19 декабря по аудиториям2.xls)">Расписание на 14-19 декабря по аудиториям2.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-3"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 7-12 декабря									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2688-расписание-на-7-12-декабря.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 7-12 декабря >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=a61f5cf6b1ef2cf4470eebd855bd09936a1c92f5" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-12-08T12:30:47+05:00" itemprop="dateModified">
+					Обновлено: 08 декабря 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p><strong>ВНИМАНИЕ! Изменение в расписании группы 15 </strong>( СтепановаТ.М, Зяблова, Комиссарова, Беляева, Артеменко)</p>
+<p>ВНИМАНИЕ! Изменение в расписании групп <strong>35</strong> (Комиссарова, Кныш) ,<strong>44</strong> ( Менщикова),<strong>30</strong> (Байбатыров, Катайцев, Светочева)</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2688">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2688/Расписание на 7-12 декабря по группам 3.xls" target="_blank" title="Скачать этот файл (Расписание на 7-12 декабря по группам 3.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 7-12 декабря по группам 3.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2688/Расписание на 7-12 декабря по группам 3.xls" target="_blank" title="Скачать этот файл (Расписание на 7-12 декабря по группам 3.xls)">Расписание на 7-12 декабря по группам 3.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2688/Расписание на 7-12 декабря по преподавателям А-Л3.xls" target="_blank" title="Скачать этот файл (Расписание на 7-12 декабря по преподавателям А-Л3.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 7-12 декабря по преподавателям А-Л3.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2688/Расписание на 7-12 декабря по преподавателям А-Л3.xls" target="_blank" title="Скачать этот файл (Расписание на 7-12 декабря по преподавателям А-Л3.xls)">Расписание на 7-12 декабря по преподавателям А-Л3.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2688/Расписание на 7-12 декабря по преподавателям М-Щ3.xls" target="_blank" title="Скачать этот файл (Расписание на 7-12 декабря по преподавателям М-Щ3.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 7-12 декабря по преподавателям М-Щ3.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2688/Расписание на 7-12 декабря по преподавателям М-Щ3.xls" target="_blank" title="Скачать этот файл (Расписание на 7-12 декабря по преподавателям М-Щ3.xls)">Расписание на 7-12 декабря по преподавателям М-Щ3.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2688/Расписание на 7-12 декабря по аудиториям3.xls" target="_blank" title="Скачать этот файл (Расписание на 7-12 декабря по аудиториям3.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 7-12 декабря по аудиториям3.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2688/Расписание на 7-12 декабря по аудиториям3.xls" target="_blank" title="Скачать этот файл (Расписание на 7-12 декабря по аудиториям3.xls)">Расписание на 7-12 декабря по аудиториям3.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-4"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание звонков по вторникам с 30.11.2020									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2672-расписание-звонков-с-30-11-2020.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание звонков по вторникам с 30.11.2020 >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=ffd7b516d6790b4d550e706ba55fb431c5504bf1" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-12-01T09:52:58+05:00" itemprop="dateModified">
+					Обновлено: 01 декабря 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p><strong>Расписание звонков</strong></p>
+<p><em>(онлайн режим)</em></p>
+<p><strong>с 30 ноября 2020 года</strong></p>
+<p><em>(по вторникам) </em></p>
+<p><strong>0 пара 8.00 – 8.20 (онлайн - линейка)</strong></p>
+<p><strong>             8.20 – 9.30 (консультации)</strong></p>
+<p><strong>1 пара  9.40 – 11.10</strong></p>
+<p><strong>Большая перемена 11.10 – 11.30</strong></p>
+<p><strong>2 пара 11.30 – 13.00</strong></p>
+<p><strong>3 пара 13.10 – 14.40</strong></p>
+<p><strong>4 пара 14.50 – 16.20</strong></p>
+<p><strong>5 пара 16.30 – 18.00</strong></p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2672"></div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-5"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 30 ноября-5 декабря									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2666-расписание-на-30-ноября-5-декабря.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 30 ноября-5 декабря >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=9c2e361c6a5847b131838b5f6db852cb83ed5e85" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-11-30T19:32:46+05:00" itemprop="dateModified">
+					Обновлено: 30 ноября 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p><strong>ВНИМАНИЕ: </strong>Изменение в расписании группы 28 (Сорокина, Федулова)</p>
+<p><strong>ВНИМАНИЕ! </strong>Изменения в расписании группы <strong>35</strong>( понедельник и четверг), <strong>28</strong> (пятница и суббота). Преподаватели: Коркина,Сокольская,Тыщук, Екимова,Сорокина,Мосин,Ревняков</p>
+<p>ВНИМАНИЕ! Студенты групп 21,27,30,31,35,37,44 : занятия, выделенные зеленым цветом проходят очно в колледже</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2666">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2666/Расписание на 30 ноября-5 декабря по аудиториям.xls" target="_blank" title="Скачать этот файл (Расписание на 30 ноября-5 декабря по аудиториям.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 30 ноября-5 декабря по аудиториям.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2666/Расписание на 30 ноября-5 декабря по аудиториям.xls" target="_blank" title="Скачать этот файл (Расписание на 30 ноября-5 декабря по аудиториям.xls)">Расписание на 30 ноября-5 декабря по аудиториям.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2666/Расписание на 30 ноября-5 декабря по группам 3.xls" target="_blank" title="Скачать этот файл (Расписание на 30 ноября-5 декабря по группам 3.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 30 ноября-5 декабря по группам 3.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2666/Расписание на 30 ноября-5 декабря по группам 3.xls" target="_blank" title="Скачать этот файл (Расписание на 30 ноября-5 декабря по группам 3.xls)">Расписание на 30 ноября-5 декабря по группам 3.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2666/Расписание на 30 ноября-5 декабря по преподавателям А-Л 3.xls" target="_blank" title="Скачать этот файл (Расписание на 30 ноября-5 декабря по преподавателям А-Л 3.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 30 ноября-5 декабря по преподавателям А-Л 3.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2666/Расписание на 30 ноября-5 декабря по преподавателям А-Л 3.xls" target="_blank" title="Скачать этот файл (Расписание на 30 ноября-5 декабря по преподавателям А-Л 3.xls)">Расписание на 30 ноября-5 декабря по преподавателям А-Л 3.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2666/Расписание на 30 ноября-5 декабря по преподавателям М-Щ3.xls" target="_blank" title="Скачать этот файл (Расписание на 30 ноября-5 декабря по преподавателям М-Щ3.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 30 ноября-5 декабря по преподавателям М-Щ3.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2666/Расписание на 30 ноября-5 декабря по преподавателям М-Щ3.xls" target="_blank" title="Скачать этот файл (Расписание на 30 ноября-5 декабря по преподавателям М-Щ3.xls)">Расписание на 30 ноября-5 декабря по преподавателям М-Щ3.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-6"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 23-28 ноября									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2655-расписание-на-23-28-ноября.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 23-28 ноября >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=78dffe82037975e0744fbd6a80f1d320f2b2acd7" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-11-24T18:55:13+05:00" itemprop="dateModified">
+					Обновлено: 24 ноября 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p>ВНИМАНИЕ! Изменения в расписании групп 23,28,32,40,14к ( Артеменко, Берг, Нелюбина,Степанова,Катайцев,Шмакова,Семакин,Маковская,Лукерьянова,Сорокина,Екимова,Федулова,Винокурова,Ревняков, Мосин)</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2655">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2655/Расписание на 23-28 ноября по группам 2.xls" target="_blank" title="Скачать этот файл (Расписание на 23-28 ноября по группам 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 23-28 ноября по группам 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2655/Расписание на 23-28 ноября по группам 2.xls" target="_blank" title="Скачать этот файл (Расписание на 23-28 ноября по группам 2.xls)">Расписание на 23-28 ноября по группам 2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2655/Расписание на 23-28 ноября по преподавателям А-Л2.xls" target="_blank" title="Скачать этот файл (Расписание на 23-28 ноября по преподавателям А-Л2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 23-28 ноября по преподавателям А-Л2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2655/Расписание на 23-28 ноября по преподавателям А-Л2.xls" target="_blank" title="Скачать этот файл (Расписание на 23-28 ноября по преподавателям А-Л2.xls)">Расписание на 23-28 ноября по преподавателям А-Л2.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2655/Расписание на 23-28 ноября по преподавателям М-Щ 2.xls" target="_blank" title="Скачать этот файл (Расписание на 23-28 ноября по преподавателям М-Щ 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 23-28 ноября по преподавателям М-Щ 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2655/Расписание на 23-28 ноября по преподавателям М-Щ 2.xls" target="_blank" title="Скачать этот файл (Расписание на 23-28 ноября по преподавателям М-Щ 2.xls)">Расписание на 23-28 ноября по преподавателям М-Щ 2.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-7"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 16-21 ноября									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2635-расписание-на-16-21-ноября.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 16-21 ноября >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=e93b1b754b01ea7ac693c32b97558a62cba312e4" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-11-18T12:17:32+05:00" itemprop="dateModified">
+					Обновлено: 18 ноября 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p>ВНИМАНИЕ! Изменения в расписании группы 23 ( Безбородова, Семакин)</p>
+<p>ВНИМАНИЕ! Изменения в расписании группы 37,24,26 ( Пермякова, Федулова, Подпятникова, Камаева, Винокурова)</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2635">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2635/Расписание на 16-21 ноября по группам 3.xls" target="_blank" title="Скачать этот файл (Расписание на 16-21 ноября по группам 3.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 16-21 ноября по группам 3.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2635/Расписание на 16-21 ноября по группам 3.xls" target="_blank" title="Скачать этот файл (Расписание на 16-21 ноября по группам 3.xls)">Расписание на 16-21 ноября по группам 3.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2635/Расписание на 16-21 ноября по преподавателям А-Л 3.xls" target="_blank" title="Скачать этот файл (Расписание на 16-21 ноября по преподавателям А-Л 3.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 16-21 ноября по преподавателям А-Л 3.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2635/Расписание на 16-21 ноября по преподавателям А-Л 3.xls" target="_blank" title="Скачать этот файл (Расписание на 16-21 ноября по преподавателям А-Л 3.xls)">Расписание на 16-21 ноября по преподавателям А-Л 3.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2635/Расписание на 16-21 ноября по преподавателям М-Щ 3.xls" target="_blank" title="Скачать этот файл (Расписание на 16-21 ноября по преподавателям М-Щ 3.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 16-21 ноября по преподавателям М-Щ 3.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2635/Расписание на 16-21 ноября по преподавателям М-Щ 3.xls" target="_blank" title="Скачать этот файл (Расписание на 16-21 ноября по преподавателям М-Щ 3.xls)">Расписание на 16-21 ноября по преподавателям М-Щ 3.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-8"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 9-14 ноября									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2625-расписание-на-9-14-ноября.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 9-14 ноября >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=a71f7b3038899746ab83b5d5eef1b702d9956ac8" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-11-12T19:07:19+05:00" itemprop="dateModified">
+					Обновлено: 12 ноября 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p>ВНИМАНИЕ! Изменение в расписании группы 24, 26 (Камаева, Пермякова, Салих, Винокурова)</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2625">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2625/Расписание на 9-14 ноября по группам2.xls" target="_blank" title="Скачать этот файл (Расписание на 9-14 ноября по группам2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 9-14 ноября по группам2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2625/Расписание на 9-14 ноября по группам2.xls" target="_blank" title="Скачать этот файл (Расписание на 9-14 ноября по группам2.xls)">Расписание на 9-14 ноября по группам2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2625/Расписание на 9-14 ноября по преподавателям А-Л2.xls" target="_blank" title="Скачать этот файл (Расписание на 9-14 ноября по преподавателям А-Л2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 9-14 ноября по преподавателям А-Л2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2625/Расписание на 9-14 ноября по преподавателям А-Л2.xls" target="_blank" title="Скачать этот файл (Расписание на 9-14 ноября по преподавателям А-Л2.xls)">Расписание на 9-14 ноября по преподавателям А-Л2.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2625/Расписание на 9-14 ноября по преподавателям М-Щ 2.xls" target="_blank" title="Скачать этот файл (Расписание на 9-14 ноября по преподавателям М-Щ 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 9-14 ноября по преподавателям М-Щ 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2625/Расписание на 9-14 ноября по преподавателям М-Щ 2.xls" target="_blank" title="Скачать этот файл (Расписание на 9-14 ноября по преподавателям М-Щ 2.xls)">Расписание на 9-14 ноября по преподавателям М-Щ 2.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-9"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 2-7 ноября									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2618-расписание-на-2-7-ноября.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 2-7 ноября >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=cdafe4b0b4515113e1960d9b0fc24f6e3a8e8eb1" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-10-29T15:30:35+05:00" itemprop="dateModified">
+					Обновлено: 29 октября 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2618">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2618/Расписание на 2-7 ноября по группам.xls" target="_blank" title="Скачать этот файл (Расписание на 2-7 ноября по группам.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 2-7 ноября по группам.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2618/Расписание на 2-7 ноября по группам.xls" target="_blank" title="Скачать этот файл (Расписание на 2-7 ноября по группам.xls)">Расписание на 2-7 ноября по группам.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2618/Расписание на 2-7 ноября по преподавателям А-Л.xls" target="_blank" title="Скачать этот файл (Расписание на 2-7 ноября по преподавателям А-Л.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 2-7 ноября по преподавателям А-Л.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2618/Расписание на 2-7 ноября по преподавателям А-Л.xls" target="_blank" title="Скачать этот файл (Расписание на 2-7 ноября по преподавателям А-Л.xls)">Расписание на 2-7 ноября по преподавателям А-Л.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2618/Расписание на 2-7 ноября по преподавателям М-Щ.xls" target="_blank" title="Скачать этот файл (Расписание на 2-7 ноября по преподавателям М-Щ.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 2-7 ноября по преподавателям М-Щ.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2618/Расписание на 2-7 ноября по преподавателям М-Щ.xls" target="_blank" title="Скачать этот файл (Расписание на 2-7 ноября по преподавателям М-Щ.xls)">Расписание на 2-7 ноября по преподавателям М-Щ.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-10"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 26-31 октября									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2608-расписание-на-26-31-октября.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 26-31 октября >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=b5a96fdf1bfa9735e9fda017a0803e427cda1faf" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-10-25T15:27:20+05:00" itemprop="dateModified">
+					Обновлено: 25 октября 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p>ВНИМАНИЕ! Изменение в расписании группы 22 ( Берг, Степанова), на заочном (Дубровских, Тишкова,Тишков)</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2608">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2608/Расписание на 26-31 октября по группам 2.xls" target="_blank" title="Скачать этот файл (Расписание на 26-31 октября по группам 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 26-31 октября по группам 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2608/Расписание на 26-31 октября по группам 2.xls" target="_blank" title="Скачать этот файл (Расписание на 26-31 октября по группам 2.xls)">Расписание на 26-31 октября по группам 2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2608/Расписание на 26-31 октября по преподавателям А-Л 2.xls" target="_blank" title="Скачать этот файл (Расписание на 26-31 октября по преподавателям А-Л 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 26-31 октября по преподавателям А-Л 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2608/Расписание на 26-31 октября по преподавателям А-Л 2.xls" target="_blank" title="Скачать этот файл (Расписание на 26-31 октября по преподавателям А-Л 2.xls)">Расписание на 26-31 октября по преподавателям А-Л 2.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2608/Расписание на 26-31 октября по преподавателям М-Щ 2.xls" target="_blank" title="Скачать этот файл (Расписание на 26-31 октября по преподавателям М-Щ 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 26-31 октября по преподавателям М-Щ 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2608/Расписание на 26-31 октября по преподавателям М-Щ 2.xls" target="_blank" title="Скачать этот файл (Расписание на 26-31 октября по преподавателям М-Щ 2.xls)">Расписание на 26-31 октября по преподавателям М-Щ 2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2608/Расписание на 26-31 октября по аудиториям.xls" target="_blank" title="Скачать этот файл (Расписание на 26-31 октября по аудиториям.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 26-31 октября по аудиториям.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2608/Расписание на 26-31 октября по аудиториям.xls" target="_blank" title="Скачать этот файл (Расписание на 26-31 октября по аудиториям.xls)">Расписание на 26-31 октября по аудиториям.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-11"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание звонков на период дистанционного обучения									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2598-расписание-звонков-на-период-дистанционного-обучения.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание звонков на период дистанционного обучения >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=9a684cba4982dbd0cc2bd15518b02ae3a971a6c9" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-10-18T07:43:15+05:00" itemprop="dateModified">
+					Обновлено: 18 октября 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p> <span style="font-size: 10pt;"><strong>РАСПИСАНИЕ ЗВОНКОВ</strong></span></p>
+<p><span style="font-size: 10pt;"><strong>с 19 октября 2020 года</strong></span></p>
+<p><span style="font-size: 10pt;"><strong>Понедельник, среда, четверг, пятница, суббота</strong></span></p>
+<p><span style="font-size: 10pt;">1 пара 8.00-9.30</span></p>
+<p><span style="font-size: 10pt;">2 пара 9.40-11.10</span></p>
+<p><span style="font-size: 10pt;"><strong>Большая перемена 11.10-11.30</strong></span></p>
+<p><span style="font-size: 10pt;">3 пара 11.30-13.00</span></p>
+<p><span style="font-size: 10pt;">4 пара 13.10-14.40</span></p>
+<p><span style="font-size: 10pt;">5 пара 14.50-16.20</span></p>
+<p><span style="font-size: 10pt;">6 пара 16.30-18.00</span></p>
+<p><span style="font-size: 10pt;"><strong>Вторник</strong></span></p>
+<p><span style="font-size: 10pt;">1 пара 8.00-9.30</span></p>
+<p><span style="font-size: 10pt;">2 пара 9.40-11.10</span></p>
+<p><span style="font-size: 10pt;"><strong>Перемена 11.10-11.30</strong></span></p>
+<p><span style="font-size: 10pt;"><strong>Еженедельная онлайн-линейка - 11.30-11.50 </strong></span></p>
+<p><span style="font-size: 10pt;">3 пара 11.50-13.20</span></p>
+<p><span style="font-size: 10pt;">4 пара 13.30-14.50</span></p>
+<p><span style="font-size: 10pt;">5 пара 15.00-16.20</span></p>
+<p><span style="font-size: 10pt;">6 пара 16.30-18.00</span></p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2598"></div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-12"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 19-24 октября									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2589-расписание-на-19-24-октября.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 19-24 октября >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=cdce7d86134c1bac908bf5b020c02300f4295f79" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-10-20T11:48:50+05:00" itemprop="dateModified">
+					Обновлено: 20 октября 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p>ВНИМАНИЕ! Изменение в расписании группы 40 (Байбатыров, Светочева)</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2589">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2589/распиание звонков.docx" target="_blank" title="Скачать этот файл (распиание звонков.docx)"><img src="/media/com_attachments/images/file_icons/wordx.gif" alt="Скачать этот файл (распиание звонков.docx)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2589/распиание звонков.docx" target="_blank" title="Скачать этот файл (распиание звонков.docx)">распиание звонков.docx</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2589/расписание на 19-24 октября по группам2.xls" target="_blank" title="Скачать этот файл (расписание на 19-24 октября по группам2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (расписание на 19-24 октября по группам2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2589/расписание на 19-24 октября по группам2.xls" target="_blank" title="Скачать этот файл (расписание на 19-24 октября по группам2.xls)">расписание на 19-24 октября по группам2.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2589/расписание на 19-24 октября по преподавателям А-Л2.xls" target="_blank" title="Скачать этот файл (расписание на 19-24 октября по преподавателям А-Л2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (расписание на 19-24 октября по преподавателям А-Л2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2589/расписание на 19-24 октября по преподавателям А-Л2.xls" target="_blank" title="Скачать этот файл (расписание на 19-24 октября по преподавателям А-Л2.xls)">расписание на 19-24 октября по преподавателям А-Л2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2589/расписание на 19-24 октября по преподавателям М-Щ2.xls" target="_blank" title="Скачать этот файл (расписание на 19-24 октября по преподавателям М-Щ2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (расписание на 19-24 октября по преподавателям М-Щ2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2589/расписание на 19-24 октября по преподавателям М-Щ2.xls" target="_blank" title="Скачать этот файл (расписание на 19-24 октября по преподавателям М-Щ2.xls)">расписание на 19-24 октября по преподавателям М-Щ2.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+											<div class="leading-13"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 12-17 октября									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2575-расписание-на-12-17-октября.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 12-17 октября >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=0ea7e708ae6e0e032c5057d9fa82c5768a1f6d6b" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-10-15T17:44:06+05:00" itemprop="dateModified">
+					Обновлено: 15 октября 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p><strong>ВНИМАНИЕ! Изменение в расписании группы 25 ( Жорнова, Жулдыбина,Тыщук), 27 (Кондратьева)</strong></p>
+<p><strong>ВНИМАНИЕ! </strong>Изменения в расписании групп: <strong>10</strong> (Брюхова,Байбатыров, Горланова), <strong>45</strong> (Тыщук,Брюхова), <strong>28</strong> (Сорокина, Федулова), <strong>17,27</strong>(Самойлова,Винокурова). Изменились аудитории: <strong>23,43,13,34к,45,26,44</strong> (Трубина, Жорнова, Камаев, Кочебаева, Тыщук, Комиссарова, Менщикова)</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2575">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2575/Расписание на 12-17 октября по группам 2.xls" target="_blank" title="Скачать этот файл (Расписание на 12-17 октября по группам 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 12-17 октября по группам 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2575/Расписание на 12-17 октября по группам 2.xls" target="_blank" title="Скачать этот файл (Расписание на 12-17 октября по группам 2.xls)">Расписание на 12-17 октября по группам 2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2575/Расписание на 12-17 октября по преподавателям А-Л 2.xls" target="_blank" title="Скачать этот файл (Расписание на 12-17 октября по преподавателям А-Л 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 12-17 октября по преподавателям А-Л 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2575/Расписание на 12-17 октября по преподавателям А-Л 2.xls" target="_blank" title="Скачать этот файл (Расписание на 12-17 октября по преподавателям А-Л 2.xls)">Расписание на 12-17 октября по преподавателям А-Л 2.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2575/Расписание на 12-17 октября по преподавателям М-Щ 2.xls" target="_blank" title="Скачать этот файл (Расписание на 12-17 октября по преподавателям М-Щ 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 12-17 октября по преподавателям М-Щ 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2575/Расписание на 12-17 октября по преподавателям М-Щ 2.xls" target="_blank" title="Скачать этот файл (Расписание на 12-17 октября по преподавателям М-Щ 2.xls)">Расписание на 12-17 октября по преподавателям М-Щ 2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2575/Расписание на 12-17 октября по аудиториям 2.xls" target="_blank" title="Скачать этот файл (Расписание на 12-17 октября по аудиториям 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 12-17 октября по аудиториям 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2575/Расписание на 12-17 октября по аудиториям 2.xls" target="_blank" title="Скачать этот файл (Расписание на 12-17 октября по аудиториям 2.xls)">Расписание на 12-17 октября по аудиториям 2.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+									</div><!-- end items-leading -->
+	
+	
+																	<div class="items-row cols-1 row-0 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 5-10 октября									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2558-расписание-на-5-10-октября.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 5-10 октября >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=d03172cc25ad375c3e829e23f70043aa36253717" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-10-07T21:41:29+05:00" itemprop="dateModified">
+					Обновлено: 07 октября 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p><strong>ВНИМАНИЕ! </strong>Изменения в расписании группы 26,40 ( Салих М.В, Светочева Н.А, Степанова Т.М)</p>
+<p><strong>Внимание!</strong> Изменение в расписании группы 27 (Самойлова, Кондратьева)</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2558">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2558/Расписание на 5-10 октября по группам 2.xls" target="_blank" title="Скачать этот файл (Расписание на 5-10 октября по группам 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 5-10 октября по группам 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2558/Расписание на 5-10 октября по группам 2.xls" target="_blank" title="Скачать этот файл (Расписание на 5-10 октября по группам 2.xls)">Расписание на 5-10 октября по группам 2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2558/Расписание на 5-10 октября по преподавателям А-Л 2.xls" target="_blank" title="Скачать этот файл (Расписание на 5-10 октября по преподавателям А-Л 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 5-10 октября по преподавателям А-Л 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2558/Расписание на 5-10 октября по преподавателям А-Л 2.xls" target="_blank" title="Скачать этот файл (Расписание на 5-10 октября по преподавателям А-Л 2.xls)">Расписание на 5-10 октября по преподавателям А-Л 2.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2558/Расписание на 5-10 октября по преподавателям М-Щ 2.xls" target="_blank" title="Скачать этот файл (Расписание на 5-10 октября по преподавателям М-Щ 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 5-10 октября по преподавателям М-Щ 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2558/Расписание на 5-10 октября по преподавателям М-Щ 2.xls" target="_blank" title="Скачать этот файл (Расписание на 5-10 октября по преподавателям М-Щ 2.xls)">Расписание на 5-10 октября по преподавателям М-Щ 2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2558/Расписание на 5-10 октября по аудиториям.xls" target="_blank" title="Скачать этот файл (Расписание на 5-10 октября по аудиториям.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 5-10 октября по аудиториям.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2558/Расписание на 5-10 октября по аудиториям.xls" target="_blank" title="Скачать этот файл (Расписание на 5-10 октября по аудиториям.xls)">Расписание на 5-10 октября по аудиториям.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-1 row-1 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание звонков на 28.09.2020									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2548-расписание-звонков-на-28-09-2020.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание звонков на 28.09.2020 >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=e897681a4b3f4bc4ae20eee7058772469e7f3a15" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-09-27T19:32:19+05:00" itemprop="dateModified">
+					Обновлено: 27 сентября 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p style="text-align: justify;"><a class="linkthumb" target="_blank" rel="lightbox[id_2548]" href="/images/stories/2016/27sen2020.jpg"><img src="/cache/5/156b5baad13240551ca8d805f50babfd.jpg" width="300" height="200" align="write" border="0" hspace="5" vspace="5" class="thumb thumbnail" /></a></p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2548"></div>
+
+</div>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+																			<div class="items-row cols-1 row-2 row-fluid clearfix">
+						<div class="span12">
+				<div class="item column-1"
+					itemprop="blogPost" itemscope itemtype="https://schema.org/BlogPosting">
+					
+
+			<div class="page-header">
+
+							<h2 itemprop="name">
+											Расписание на 28 сентября-3 октября									</h2>
+			
+											</div>
+	
+	
+<div class="icons">
+	
+					<div class="btn-group pull-right">
+				<a class="btn dropdown-toggle" data-toggle="dropdown" href="#"> <span class="icon-cog"></span><span class="caret"></span> </a>
+								<ul class="dropdown-menu">
+											<li class="print-icon"> <a href="/студенту/расписание_пар-2/2545-расписание-на-28-сентября-3-октября.html?tmpl=component&amp;print=1&amp;layout=default&amp;page=" title="Распечатать материал < Расписание на 28 сентября-3 октября >" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><span class="icon-print"></span>Печать</a> </li>
+																<li class="email-icon"> <a href="/component/mailto/?tmpl=component&amp;template=apas&amp;link=020c271aa7f5c520ec46845d496ba6a5efd37b2a" title="Отправить ссылку другу" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;" rel="nofollow"><span class="icon-envelope"></span>E-mail</a> </li>
+														</ul>
+			</div>
+		
+	</div>
+
+
+
+		<dl class="article-info muted">
+
+		
+			<dt class="article-info-term">
+									Подробности							</dt>
+
+			
+										<dd class="parent-category-name">
+																		Родительская категория: <a href="/учебная-работа/расписание_пар/50-учебная-работа.html" itemprop="genre">Учебная работа</a>							</dd>			
+										<dd class="category-name">
+																		Категория: <a href="/студенту/расписание_пар-2.html" itemprop="genre">Расписание</a>							</dd>			
+					
+					
+										<dd class="modified">
+				<span class="icon-calendar"></span>
+				<time datetime="2020-09-28T20:03:44+05:00" itemprop="dateModified">
+					Обновлено: 28 сентября 2020				</time>
+			</dd>			
+						</dl>
+
+
+
+
+<p><strong>ВНИМАНИЕ!</strong> Изменение в расписании группы <strong>23 </strong>(среда)<strong> ,31 </strong>(четверг)</p><div class="attachmentsContainer">
+
+<div class="attachmentsList" id="attachmentsList_com_content_article_2545">
+<table>
+<tbody>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2545/Расписание на 28 сентября - 3 октября по группам 2.xls" target="_blank" title="Скачать этот файл (Расписание на 28 сентября - 3 октября по группам 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 28 сентября - 3 октября по группам 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2545/Расписание на 28 сентября - 3 октября по группам 2.xls" target="_blank" title="Скачать этот файл (Расписание на 28 сентября - 3 октября по группам 2.xls)">Расписание на 28 сентября - 3 октября по группам 2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2545/Расписание на 28 сентября - 3 октября по преподавателям А-Л 2.xls" target="_blank" title="Скачать этот файл (Расписание на 28 сентября - 3 октября по преподавателям А-Л 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 28 сентября - 3 октября по преподавателям А-Л 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2545/Расписание на 28 сентября - 3 октября по преподавателям А-Л 2.xls" target="_blank" title="Скачать этот файл (Расписание на 28 сентября - 3 октября по преподавателям А-Л 2.xls)">Расписание на 28 сентября - 3 октября по преподавателям А-Л 2.xls</a></td></tr>
+<tr class="odd"><td class="at_filename"><a class="at_icon" href="/attachments/article/2545/Расписание на 28 сентября - 3 октября по преподавателям М-Щ 2.xls" target="_blank" title="Скачать этот файл (Расписание на 28 сентября - 3 октября по преподавателям М-Щ 2.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 28 сентября - 3 октября по преподавателям М-Щ 2.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2545/Расписание на 28 сентября - 3 октября по преподавателям М-Щ 2.xls" target="_blank" title="Скачать этот файл (Расписание на 28 сентября - 3 октября по преподавателям М-Щ 2.xls)">Расписание на 28 сентября - 3 октября по преподавателям М-Щ 2.xls</a></td></tr>
+<tr class="even"><td class="at_filename"><a class="at_icon" href="/attachments/article/2545/Расписание на 28 сентября - 3 октября по аудиториям.xls" target="_blank" title="Скачать этот файл (Расписание на 28 сентября - 3 октября по аудиториям.xls)"><img src="/media/com_attachments/images/file_icons/excel.gif" alt="Скачать этот файл (Расписание на 28 сентября - 3 октября по аудиториям.xls)" class="thumbnail" /></a><a class="at_url" href="/attachments/article/2545/Расписание на 28 сентября - 3 октября по аудиториям.xls" target="_blank" title="Скачать этот файл (Расписание на 28 сентября - 3 октября по аудиториям.xls)">Расписание на 28 сентября - 3 октября по аудиториям.xls</a></td></tr>
+</tbody></table>
+</div>
+
+</div>
+
+
+
+				</div>
+				<!-- end item -->
+							</div><!-- end span -->
+							</div><!-- end row -->
+						
+			<div class="items-more">
+			
+<ol class="nav nav-tabs nav-stacked">
+			<li>
+			<a href="/студенту/расписание_пар-2/2533-расписание-на-21-26-сентября.html">
+				Расписание на 21-26 сентября</a>
+		</li>
+			<li>
+			<a href="/студенту/расписание_пар-2/2529-расписание-на-14-19-сентября-2.html">
+				Расписание на 14-19 сентября</a>
+		</li>
+			<li>
+			<a href="/студенту/расписание_пар-2/2525-расписание-на-14-19-сентября.html">
+				Расписание на 14-19 сентября</a>
+		</li>
+			<li>
+			<a href="/студенту/расписание_пар-2/2519-расписание-на-7-12-сентября.html">
+				Расписание на 7-12 сентября</a>
+		</li>
+	</ol>
+		</div>
+	
+				<div class="pagination">
+							<p class="counter pull-right"> Страница 1 из 2 </p>
+						<ul><li class="pagination-start"><span class="pagenav">В начало</span></li><li class="pagination-prev"><span class="pagenav">Назад</span></li><li><span class="pagenav">1</span></li><li><a href="/учебная-работа/расписание_пар.html?start=17" class="pagenav">2</a></li><li class="pagination-next"><a title="Вперёд" href="/учебная-работа/расписание_пар.html?start=17" class="hasTooltip pagenav">Вперёд</a></li><li class="pagination-end"><a title="В конец" href="/учебная-работа/расписание_пар.html?start=17" class="hasTooltip pagenav">В конец</a></li></ul> </div>
+	</div>
+                        </div>
+                        
+                                         
+                    
+					</div>
+                                           
+                     
+                </div> 
+                
+				<div class="apas-module-container text-color-light"><div class="row"><div class="col-sm-12"><div class="apas-module apas-position-10">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<div id="bannerground" align="center">
+<ul id="banner_down">
+<li id="banner_item"><a title="Официальный сайт Министерство просвещения Российской Федерации" href="https://edu.gov.ru/" target="_blank"> <img id="banner_item" src="/images/stories/2016/Screenshot_10.jpg" alt="Официальный сайт Министерство просвещения Российской Федерации" /></a></li>
+<li id="banner_item"><a title="Официальный сайт Министерство науки и высшего образования РФ" href="https://minobrnauki.gov.ru/" target="_blank"> <img id="banner_item" src="/images/stories/2016/mn.png" alt="Официальный сайт  Министерство науки и высшего образования РФ" /></a></li>
+<li id="banner_item"><a title="Портал государственных услуг Российской Федерации" href="http://www.gosuslugi.ru/" target="_blank"> <img id="banner_item" src="/images/banners/gosuslugi_logo.jpg" alt="Портал государственных услуг Российской Федерации" /></a></li>
+<li id="banner_item"><a title="Департамент образования Курганской области" href="http://don.kurganobl.ru/" target="_blank"> <img id="banner_item" src="/images/banners/do1.jpg" alt="Департамент образования Курганской области" /></a></li>
+<li id="banner_item"><a title="«Интернет – издание Профобразование»" href="http://xn----btb1bbcge2a.xn--p1ai/" target="_blank"> <img id="banner_item" src="/images/banners/ii.png" alt="Интернет – издание Профобразование средство массовой информации, зарегистрированное в Федеральной службе по надзору в сфере связи, информационных технологий и массовых коммуникаций" /></a></li>
+<li id="banner_item"><a title="Сайт Уполномоченного при Губернаторе Курганской области  по правам ребенка" href="http://deti.kurganobl.ru/" target="_blank"> <img id="banner_item" src="/images/banners/logopr.jpg" alt="Сайт Уполномоченного при Губернаторе Курганской области  по правам ребенка" /></a></li>
+<li id="banner_item"><a title="Детская страница портала персональных данных" href="http://xn--80aalcbc2bocdadlpp9nfk.xn--d1acj3b/" target="_blank"> <img id="banner_item" src="/images/banners/pddeti.jpg" alt="Детская страница портала персональных данных" /></a></li>
+<li id="banner_item"><a style="background: #fff;" title="Молодежный портал Зауралья Проспект 45" href="http://prospekt45.ru/" target="_blank"> <img id="banner_item" src="/images/banners/KPK_150X40.jpg" alt="Молодежный портал Зауралья Проспект 45" /></a></li>
+<li id="banner_item"><a title="Online поддержка Сетевичок" href="http://xn--b1afankxqj2c.xn--p1ai/" target="_blank"> <img id="banner_item" src="/images/banners/setev3.png" alt="Online поддержка Сетевичок" /></a></li>
+<li id="banner_item"><a title="Официальный информационный портал единого государственного экзамена (ЕГЭ 2016)" href="http://www.ege.edu.ru/" target="_blank"> <img id="banner_item" src="/images/banners/vybor4.jpg" alt="Официальный информационный портал единого государственного экзамена (ЕГЭ 2016)" /></a></li>
+<li id="banner_item"><a title="Профконкурсы" href="http://xn--j1aaicbdhfjsg.xn--p1ai/" target="_blank"> <img id="banner_item" src="/images/banners/profkonkurs.png" alt="Профконкурсы" /></a></li>
+<li id="banner_item"><a title="Федеральный портал «Российское образование»" href="http://www.edu.ru" target="_blank"> <img id="banner_item" src="/images/stories/2016/logo-rosobr-small.png" alt="Федеральный портал «Российское образование»" /></a></li>
+<li id="banner_item"><a title="Бесплатная электронная библиотека онлайн &quot;Единое окно к образовательным ресурсам&quot;" href="http://window.edu.ru/" target="_blank"> <img id="banner_item" src="/images/banners/eo234x60.jpg" alt="Бесплатная электронная библиотека онлайн &quot;Единое окно к образовательным ресурсам&quot;" /></a></li>
+<li id="banner_item"><a title="Федеральный центр информационно-образовательных ресурсов (ФЦИОР)" href="http://fcior.edu.ru/" target="_blank"> <img id="banner_item" src="/images/banners/fcior234x60.jpg" alt="Федеральный центр информационно-образовательных ресурсов (ФЦИОР)" /></a></li>
+<li id="banner_item"><a title="Единая коллекция Цифровых Образовательных Ресурсов " href="http://school-collection.edu.ru/" target="_blank"> <img id="banner_item" src="/images/banners/sc234x60.jpg" alt="Единая коллекция Цифровых Образовательных Ресурсов " /></a></li>
+<li id="banner_item"><a title="Информационная безопасность" href="http://don.kurganobl.ru/index.php?option=com_content&amp;view=section&amp;id=45&amp;Itemid=237" target="_blank"> <img id="banner_item" src="/images/banners/informbezop.jpg" alt="Информационная безопасность" /></a></li>
+<li id="banner_item"><a title="Современная цифровая образовательная среда Российской Федерации" href="https://online.edu.ru/ru/" target="_blank"> <img id="banner_item" src="/images/stories/2016/logo.png" alt="Современная цифровая образовательная среда Российской Федерации" /></a></li>
+<li id="banner_item"><a title="Анкета" href="https://forms.gle/MAXVRP1Qvd6uvvxs6" target="_blank"> <img id="banner_item" src="/images/banners/anketa.JPG" alt="Анкета " /></a></li>
+<li id="banner_item"><a title="Профилактика спида" href="http://czn.kurganobl.ru/aids.html" target="_blank"> <img id="banner_item" src="/images/stories/2016/vihc.jpg" alt="Профилактика спида" /></a></li>
+<li id="banner_item"><a title="Чемпионат Курганской области «Абилимпикс» " href="https://vk.com/abilympicskurgan" target="_blank"> <img id="banner_item" src="/images/stories/2016/Abil1.png" alt="РЦ движения «Абилимпикс» " /></a></li>
+<li id="banner_item"><a title="Работа в России" href="https://trudvsem.ru/" target="_blank"> <img id="banner_item" src="/images/stories/2016/trud.jpg" alt="Работа в России" /></a></li>
+<li id="banner_item"><a title="Юрайт" href="https://urait.ru/" target="_blank" rel="alternate"> <img id="banner_item" src="/images/stories/2016/MASTER/urait.JPG" alt="Юрайт" /></a></li>
+</ul>
+</div></div>
+		</div>
+	</div></div></div></div>                            
+            </div>
+              
+        </div>
+        
+                <div id="apas-footer">
+            <div class="container"><div class="row">
+                
+                                <div class="footer-content textcenter">		<div class="moduletable">
+						
+
+<div class="custom"  >
+	<h6 id="topmenuitem" style="text-align: left;"><a id="topmenuitem" href="/component/osmap/?view=html&amp;id=1">  Карта сайта</a></h6>
+<h6 id="topmenuitem" style="text-align: left;">   <a id="topmenuitem" href="/%D0%BE-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%B4%D0%B6%D0%B5/%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D0%B2%D1%8F%D0%B7%D1%8C1.html">Обратная связь</a></h6></div>
+		</div>
+	</div>                <div id="webdesign-by" class="footer-content">  &copy; ГБПОУ "Курганский педагогический колледж" 2008-2020 | г. Курган</div>
+                
+            </div></div>
+        </div>
+                <!-- Yandex.Metrika counter -->
+<script async type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter34979110 = new Ya.Metrika({
+                    id:34979110,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true,
+                    trackHash:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<div><img src="https://kpk.kss45.ru/templates/apas/images/metric.gif" style="position:absolute; left:-9999px;" alt="" /></div>
+<!-- /Yandex.Metrika counter -->             
+</div>
+<script async type="text/javascript">
+         if (window.XMLHttpRequest) {
+            // code for IE7+, Firefox, Chrome, Opera, Safari
+            xmlhttp = new XMLHttpRequest();        }
+		else
+			{
+            // code for IE6, IE5
+            xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        xmlhttp.onreadystatechange = function() {
+            if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+                document.getElementById("topmenuitem").innerHTML = xmlhttp.responseText;
+            }
+        }  
+		qu="/schedule/front_ajax.php";
+		xmlhttp.open("GET",qu,true);
+		xmlhttp.send();
+</script>
+<div style="position:absolute; top:55px; left:20px;">
+<span  id="time" style="color: #fff;"></span>
+</p>
+</div>
+
+<script async type="text/javascript">
+function clock() {
+var d = new Date();
+var month_num = d.getMonth()
+var day = d.getDate();
+var hours = d.getHours();
+var minutes = d.getMinutes();
+month=new Array("января", "февраля", "марта", "апреля", "мая", "июня",
+"июля", "августа", "сентября", "октября", "ноября", "декабря");
+if (day <= 9) day = "0" + day;
+if (hours <= 9) hours = "0" + hours;
+if (minutes <= 9) minutes = "0" + minutes;
+if (dt==true) {date_time = hours + ":" + minutes + "&nbsp;&nbsp;" + day + " " + month[month_num] + " " + d.getFullYear(); dt=false;} else {date_time = hours + " " + minutes  + "&nbsp;&nbsp;" + day + " " + month[month_num] + " " + d.getFullYear();dt=true;};
+if (document.layers) {
+ document.layers.doc_time.document.write(date_time);
+ document.layers.doc_time.document.close();
+}
+else document.getElementById("time").innerHTML = date_time;
+ setTimeout("clock()", 1000);
+}
+dt = true;
+setTimeout("clock()", 1000);
+</script>
+</body>
+</html>
